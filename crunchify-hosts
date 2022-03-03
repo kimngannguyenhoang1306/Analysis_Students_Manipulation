@@ -1,0 +1,3 @@
+[crunchify-group]
+172.30.224.19 ansible_connection=ssh ansible_ssh_user=minhtrung0205 ansible_ssh_pass=1
+172.30.55.96 ansible_connection=ssh ansible_ssh_user=kimngan ansible_ssh_pass=1501

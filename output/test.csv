@@ -1,0 +1,11 @@
+Time,Command
+,ifconfig
+,sudo apt install net-tools
+,clear
+,ifconfig
+,sudo apt install openssh-server
+,sudo ufw allow ssh
+,sudo passwd root
+,exit
+,exit
+,exit
