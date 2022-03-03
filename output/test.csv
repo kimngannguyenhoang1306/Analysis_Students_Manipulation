@@ -1,11 +1,6 @@
-Time,Command
-,ifconfig
-,sudo apt install net-tools
-,clear
-,ifconfig
-,sudo apt install openssh-server
-,sudo ufw allow ssh
-,sudo passwd root
-,exit
-,exit
-,exit
+User,Time,Command
+172.30.55.96,2022-03-03 00:11:04,"echo ""ahihi"""
+172.30.55.96,2022-03-03 00:11:10,"echo ""ahaha"""
+172.30.55.96,2022-03-03 00:15:07,cat ~/.bashrc
+172.30.55.96,2022-03-03 00:15:18,sudo gedit ~/.bashrc
+172.30.55.96,2022-03-03 00:16:07,cat ~/.bashrc

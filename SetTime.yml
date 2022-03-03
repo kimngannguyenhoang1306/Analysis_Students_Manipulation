@@ -1,0 +1,17 @@
+---
+- name: Test
+  become: false
+  hosts: crunchify-group
+  tasks:
+  
+     - name: Remove history command
+       shell: rm /home/{{ ansible_ssh_user }}/.bash_history
+
+     - name: See history
+       shell: echo "export HISTTIMEFORMAT=\"%d/%m/%y %T \"" >> /home/{{ ansible_ssh_user }}/.bashrc
+
+     
+     - name: Save bashrc
+       shell: source /home/{{ ansible_ssh_user }}/.bashrc
+       args:
+                executable: /bin/bash

@@ -1,1 +1,1 @@
-["ifconfig", "sudo apt install net-tools", "clear", "ifconfig", "sudo apt install openssh-server", "sudo ufw allow ssh", "sudo passwd root", "exit"]
+["#1646295064", "echo \"ahihi\"", "#1646295070", "echo \"ahaha\"", "#1646295307", "cat ~/.bashrc", "#1646295318", "sudo gedit ~/.bashrc", "#1646295367", "cat ~/.bashrc"]

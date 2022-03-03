@@ -3,18 +3,6 @@
   become: false
   hosts: crunchify-group
   tasks:
-  
-     #- name: Remove history command
-     #  shell: rm /home/minhtrung0205/.bash_history
-  
-     #- name: See history
-     #  shell: echo "export HISTTIMEFORMAT=\"%d/%m/%y %T \"" >> /home/minhtrung0205/.bashrc
-     #  register: command_output
-     
-     #- name: Save bashrc
-     #  shell: source /home/minhtrung0205/.bashrc
-     #  args:
-     #           executable: /bin/bash
      
      - name: See history
        shell: cat ~/.bash_history
