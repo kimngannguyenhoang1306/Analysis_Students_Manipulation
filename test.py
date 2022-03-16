@@ -1,7 +1,7 @@
 import json
 import csv
 import re
-from datetime import datetime
+from datetime import datetime, date
 from subprocess import Popen, PIPE
 import os
 import threading
@@ -22,22 +22,20 @@ if choose == '1':
 	output = test.communicate()[1]
 
 if choose == '2':
-	args1 = ["ansible-playbook", "-b", "-v", "crunchify_execute_command.yml", "--extra-var", "\"crunchify-group\"", "-i", "crunchify-hosts"]         
+	'''args1 = ["ansible-playbook", "-b", "-v", "crunchify_execute_command.yml", "--extra-var", "\"crunchify-group\"", "-i", "crunchify-hosts"]         
 	test1 = Popen(args1, stdin=PIPE, stdout=PIPE, stderr=PIPE)
 	output1 = test1.communicate()[1]
-	print(output1)
-	print("ahihi")
-	# Change the directory
-	#os.chdir(path)
-
-	# Read text File
+	print(output1)'''
 
 	time = ""
 	rows = []
 	user = ""
 	fields = []
 	file_path = os.getcwd()
-
+	# field names
+	fields = ['User', 'Time', 'Command', 'Duration']
+	
+	
 	# iterate through all file
 	for file in os.listdir(path):
 	# Check whether file is in text format or not
@@ -48,20 +46,22 @@ if choose == '2':
 			# call read text file function
 			f = open(file_path, 'r')
 			data = json.loads(f.read())
-
-			# field names
-			fields = ['User', 'Time', 'Command']
 			
-			# data rows of csv file
-
-			dt_object = None
+			dt_object = datetime.fromtimestamp(int(data[0].strip('#')))
+			totalDuration = dt_object - dt_object
+			
+			# data rows of csv file	
 			for command in data:
 				if re.search("^#", command):
 					time = command.strip('#')
 					timestamp = int(time)
-					dt_object = datetime.fromtimestamp(timestamp)
+					new_dt_object = datetime.fromtimestamp(timestamp)
+					duration = new_dt_object - dt_object
+					totalDuration += duration
+					print(totalDuration)
+					dt_object = new_dt_object
 					continue
-				rows.append([user, dt_object, command])
+				rows.append([user, dt_object, command, duration])
 
 
 	with open(f'{path}/test.csv', 'w') as f:
