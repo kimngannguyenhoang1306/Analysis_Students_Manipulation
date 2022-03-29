@@ -1,0 +1,15 @@
+hostname,username,timestamp_str,sandbox_id,ip,cmd,pool_id,wd,cmd_type
+attacker,root,2021-01-14T09:18:25.740Z,130,10.1.0.100,nmap,47,/root,bash-command
+attacker,root,2021-01-14T09:19:23.399Z,130,10.1.0.100,nmap 100.100.100.4,47,/root,bash-command
+attacker,root,2021-01-14T09:23:03.722Z,130,10.1.0.100,nmap --help,47,/root,bash-command
+attacker,root,2021-01-14T09:27:40.483Z,130,10.1.0.100,nmap -sS -sV -p 548 --script=afp-ls 100.100.100.4,47,/root,bash-command
+attacker,root,2021-01-14T09:30:56.066Z,130,10.1.0.100,nmap --script=http-sql-injection server,47,/root,bash-command
+attacker,root,2021-01-14T09:44:47.508Z,130,10.1.0.100,ls,47,/root,bash-command
+attacker,root,2021-01-14T09:45:06.301Z,130,10.1.0.100,cd /var/www/html/,47,/root,bash-command
+attacker,root,2021-01-14T09:45:08.652Z,130,10.1.0.100,ls,47,/var/www/html,bash-command
+attacker,root,2021-01-14T09:45:12.938Z,130,10.1.0.100,cd ~,47,/var/www/html,bash-command
+attacker,root,2021-01-14T10:11:38.113Z,130,10.1.0.100,ssh server,47,/root,bash-command
+attacker,root,2021-01-14T10:13:26.860Z,130,10.1.0.100,ssh webadmin@server,47,/root,bash-command
+attacker,root,2021-01-14T10:29:21.053Z,130,10.1.0.100,ssh webadmin@server,47,/root,bash-command
+attacker,root,2021-01-14T10:35:14.963Z,130,10.1.0.100,ssh webadmin@servere,47,/root,bash-command
+attacker,root,2021-01-14T10:35:17.449Z,130,10.1.0.100,ssh webadmin@server,47,/root,bash-command

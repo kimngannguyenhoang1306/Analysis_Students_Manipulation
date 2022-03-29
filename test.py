@@ -1,41 +1,46 @@
+import os
+import re
+import threading
 import json
 import csv
-import re
-from datetime import datetime, date
+from datetime import datetime
 from subprocess import Popen, PIPE
-import os
-import threading
 
 # Folder Path
-path = "/home/kimngan/Analysis_Students_Manipulation/output"
+path = "/home/kimngan/Desktop/Analysis_Students_Manipulation/output"
 
 if not os.path.exists(path):
 	os.mkdir(path)
 
 	
-print('Choose: 1: SetTime 2: GetLog')
+print('Choose: 1: Clean history cache and set \n\t DateTime 2: Get Log')
 choose = input()
 
 if choose == '1':
-	args = ["ansible-playbook", "-b", "-v", "SetTime.yml", "--extra-var", "\"crunchify-group\"", "-i", "crunchify-hosts"]
-	test = Popen(args, stdin=PIPE, stdout=PIPE, stderr=PIPE)
-	output = test.communicate()[1]
+	args = ["ansible-playbook", "-b", "-v", "Set_DateTime.yml", "--extra-var", "\"crunchify-group\"", "-i", "crunchify-hosts"]
+	Set_DateTime = Popen(args, stdin=PIPE, stdout=PIPE, stderr=PIPE)
+	output = Set_DateTime.communicate()
+	print(output)
 
 if choose == '2':
-	'''args1 = ["ansible-playbook", "-b", "-v", "crunchify_execute_command.yml", "--extra-var", "\"crunchify-group\"", "-i", "crunchify-hosts"]         
-	test1 = Popen(args1, stdin=PIPE, stdout=PIPE, stderr=PIPE)
-	output1 = test1.communicate()[1]
-	print(output1)'''
+	args = ["ansible-playbook", "-b", "-v", "Check_History.yml", "--extra-var", "\"crunchify-group\"", "-i", "crunchify-hosts"]         
+	Check_History = Popen(args, stdin=PIPE, stdout=PIPE, stderr=PIPE)
+	output = Check_History.communicate()
+	print(output)
+	
+	# Change the directory
+	#os.chdir(path)
 
+	# data rows of csv file
 	time = ""
 	rows = []
 	user = ""
-	fields = []
+	
+	# field name
+	fields = ['User', 'Time', 'Working Directory', 'Command', 'Duration']
+	Sum = []
 	file_path = os.getcwd()
-	# field names
-	fields = ['User', 'Time', 'Command', 'Duration']
-	
-	
+
 	# iterate through all file
 	for file in os.listdir(path):
 	# Check whether file is in text format or not
@@ -47,28 +52,28 @@ if choose == '2':
 			f = open(file_path, 'r')
 			data = json.loads(f.read())
 			
-			dt_object = datetime.fromtimestamp(int(data[0].strip('#')))
-			totalDuration = dt_object - dt_object
+			dt_object = datetime.fromtimestamp(int(data[0].split(" - ")[0]))
+			sumDuration = dt_object - dt_object # sum of duration
 			
-			# data rows of csv file	
-			for command in data:
-				if re.search("^#", command):
-					time = command.strip('#')
-					timestamp = int(time)
-					new_dt_object = datetime.fromtimestamp(timestamp)
-					duration = new_dt_object - dt_object
-					totalDuration += duration
-					print(totalDuration)
-					dt_object = new_dt_object
-					continue
-				rows.append([user, dt_object, command, duration])
+			for item in data:
+				line = item.split(" - ")
+				time = line[0]
+				timestamp = int(time)
+				new_dt_object = datetime.fromtimestamp(timestamp)
+				duration = new_dt_object - dt_object
+				sumDuration += duration
+				dt_object = new_dt_object
+				line[0] = dt_object
+				line.append(duration)
+			
+				line.insert(0, user)
+				rows.append(line)
+			
+			with open(f'{path}/Statistical_Table.csv', 'w') as f:
 
+				# using csv.writer method from CSV package
+				write = csv.writer(f)
 
-	with open(f'{path}/test.csv', 'w') as f:
-
-		# using csv.writer method from CSV package
-		write = csv.writer(f)
-
-		write.writerow(fields)
-		write.writerows(rows)
+				write.writerow(fields)
+				write.writerows(rows)
 
