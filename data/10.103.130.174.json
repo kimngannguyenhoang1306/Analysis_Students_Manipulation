@@ -1,0 +1,275 @@
+{"User": "10.103.130.174", "timestamp_ms": 1650129341, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.174", "timestamp_ms": 1650129343, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650130808, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.174", "timestamp_ms": 1650130808, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.174", "timestamp_ms": 1650130912, "pwd": "/home/ubuntu", "cmd": "sudo su"}
+{"User": "10.103.130.174", "timestamp_ms": 1650130916, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650130985, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp --profile=Win7SP0x86 consoles"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131174, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp "}
+{"User": "10.103.130.174", "timestamp_ms": 1650131175, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp "}
+{"User": "10.103.130.174", "timestamp_ms": 1650131177, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp "}
+{"User": "10.103.130.174", "timestamp_ms": 1650131178, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp "}
+{"User": "10.103.130.174", "timestamp_ms": 1650131188, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp "}
+{"User": "10.103.130.174", "timestamp_ms": 1650131231, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep flag"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131288, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep flag"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131289, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep flag"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131290, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131300, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep bash history"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131336, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"bash history\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650131336, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"bash history\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650131371, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131371, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131378, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131421, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i 'Linux version' | uniq"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131566, "pwd": "/home/ubuntu", "cmd": "ubuntu@ubuntu:~$ strings memory.dmp | grep -i 'Linux version' | uniq"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131566, "pwd": "/home/ubuntu", "cmd": "Linux version 4.15.0-112-generic (buildd@lcy01-amd64-021) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.12)) #113~16.04.1-Ubuntu SMP Fri Jul 10 04:"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131566, "pwd": "/home/ubuntu", "cmd": "37:08 UTC 2020 (Ubuntu 4.15.0-112.113~16.04.1-generic 4.15.18)"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131570, "pwd": "/home/ubuntu", "cmd": "ubuntu@ubuntu:~$ clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131574, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131629, "pwd": "/home/ubuntu", "cmd": "cd volatility/tools/linu"}
+{"User": "10.103.130.174", "timestamp_ms": 1650131887, "pwd": "/home/ubuntu", "cmd": "sudo apt install build-essential dwarfdump"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132130, "pwd": "/home/ubuntu", "cmd": "git clone https://github.com/volatilityfoundation/volatility.git"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132132, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132142, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132147, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132152, "pwd": "/home/ubuntu/volatility", "cmd": "ls -l"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132374, "pwd": "/home/ubuntu/volatility", "cmd": "cd ."}
+{"User": "10.103.130.174", "timestamp_ms": 1650132375, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132378, "pwd": "/home/ubuntu/volatility", "cmd": "cd ."}
+{"User": "10.103.130.174", "timestamp_ms": 1650132380, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650132385, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132389, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132455, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "cd volatility/tools/linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132463, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "make"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132532, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "cd ..."}
+{"User": "10.103.130.174", "timestamp_ms": 1650132534, "pwd": "/home/ubuntu/volatility/tools", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650132536, "pwd": "/home/ubuntu/volatility", "cmd": "cd .. "}
+{"User": "10.103.130.174", "timestamp_ms": 1650132537, "pwd": "/home/ubuntu", "cmd": "cd .. "}
+{"User": "10.103.130.174", "timestamp_ms": 1650132540, "pwd": "/home/ubuntu", "cmd": "pwd"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132541, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132551, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "cd volatility/tools/linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132683, "pwd": "/home/ubuntu", "cmd": "cd /home/ubuntu"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132684, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132686, "pwd": "/home/ubuntu", "cmd": "mv Ubuntu16041.zip /usr/lib/python2.7/dist-packages/volatility/plugins/linux/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132691, "pwd": "/home/ubuntu", "cmd": "sudo mv Ubuntu16041.zip /usr/lib/python2.7/dist-packages/volatility/plugins/linux/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132694, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132696, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132700, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132701, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132779, "pwd": "/home/ubuntu/volatility", "cmd": "volatility -f /home/ubuntu/memory.dmp --profile=Ubuntu16041 cmdline"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132790, "pwd": "/home/ubuntu/volatility", "cmd": "./volatility -f /home/ubuntu/memory.dmp --profile=Ubuntu16041 cmdline"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132801, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132802, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132811, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "cd ."}
+{"User": "10.103.130.174", "timestamp_ms": 1650132830, "pwd": "/home/ubuntu/volatility", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650132834, "pwd": "/home/ubuntu/volatility", "cmd": "cat README.txt "}
+{"User": "10.103.130.174", "timestamp_ms": 1650132862, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132871, "pwd": "/home/ubuntu/volatility", "cmd": "./Makefile"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132880, "pwd": "/home/ubuntu/volatility", "cmd": "sudo ./Makefile"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132910, "pwd": "/home/ubuntu/volatility", "cmd": "./vol.py -f /home/ubuntu/memory.dmp --profile=Ubuntu16041 cmdline"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132919, "pwd": "/home/ubuntu/volatility", "cmd": "sudo ./vol.py -f /home/ubuntu/memory.dmp --profile=Ubuntu16041 cmdline"}
+{"User": "10.103.130.174", "timestamp_ms": 1650132988, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=Ubuntu16041 cmdline"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133048, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133155, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp imageinfo"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133185, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu1604x64 linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133194, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu16041x64 linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133240, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "cd volatility/plugins/overlays/linux "}
+{"User": "10.103.130.174", "timestamp_ms": 1650133242, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133261, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133269, "pwd": "/home/ubuntu", "cmd": "cd /home/ubuntu/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133270, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133278, "pwd": "/home/ubuntu", "cmd": "mv Ubuntu16041.zip volatility/plugins/overlays/linux "}
+{"User": "10.103.130.174", "timestamp_ms": 1650133291, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133293, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133318, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133319, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133324, "pwd": "/home/ubuntu/volatility", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650133340, "pwd": "/home/ubuntu/volatility", "cmd": "mv /home/ubuntu/Ubuntu16041.zip volatility/plugins/overlays/linux "}
+{"User": "10.103.130.174", "timestamp_ms": 1650133343, "pwd": "/home/ubuntu/volatility", "cmd": "ls pyinstaller"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133351, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "cd volatility/plugins/overlays/linux "}
+{"User": "10.103.130.174", "timestamp_ms": 1650133352, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133361, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "cd home/u"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133370, "pwd": "/home/ubuntu", "cmd": "cd /home/ubuntu/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133371, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133374, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133388, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu1604x64 linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133407, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=Ubuntu16041.zip linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133510, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py --info"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133524, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133548, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650133549, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133554, "pwd": "/usr", "cmd": "cd /usr"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133570, "pwd": "/usr/share", "cmd": "cd /usr/share/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133571, "pwd": "/usr/share", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133619, "pwd": "/home/ubuntu", "cmd": "cd /home/ubuntu/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133622, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133636, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=Ubuntu16041x64 linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133671, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py -h"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133704, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py -info"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133715, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py --info "}
+{"User": "10.103.130.174", "timestamp_ms": 1650133733, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py --info "}
+{"User": "10.103.130.174", "timestamp_ms": 1650133737, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133738, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133741, "pwd": "/home/ubuntu/volatility/volatility/plugins", "cmd": "cd plugins/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133743, "pwd": "/home/ubuntu/volatility/volatility/plugins", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133750, "pwd": "/home/ubuntu/volatility/volatility/plugins/linux", "cmd": "cd linux/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133751, "pwd": "/home/ubuntu/volatility/volatility/plugins/linux", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133767, "pwd": "/home/ubuntu/volatility/volatility/plugins", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650133768, "pwd": "/home/ubuntu/volatility/volatility/plugins", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133774, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays", "cmd": "cd overlays/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133775, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133779, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "cd linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133780, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133799, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "python vol.py --info"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133816, "pwd": "/home/ubuntu", "cmd": "cd /home/ubuntu/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133819, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133820, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133831, "pwd": "/home/ubuntu", "cmd": "volatility --info"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133846, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133847, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133852, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650133868, "pwd": "/home/ubuntu", "cmd": "where volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133874, "pwd": "/home/ubuntu", "cmd": "locate volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133877, "pwd": "/home/ubuntu", "cmd": "locate volatility"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133883, "pwd": "/home", "cmd": "cd /home"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133883, "pwd": "/home", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133888, "pwd": "/home/ubuntu", "cmd": "cd ubuntu"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133889, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133934, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650133949, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py --info | grep Linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134032, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu16041x64 linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134079, "pwd": "/home/ubuntu", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu16041x64 linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134083, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134151, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu16041x64 linux_bash_env"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134189, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu16041x64 linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134377, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu16041x64 linux_bash_hash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134482, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu16041x64 linux_bash --history-list= 0x6ed4a0"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134691, "pwd": "/home/ubuntu/volatility", "cmd": "uname -a"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134702, "pwd": "/home/ubuntu/volatility", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134830, "pwd": "/home/ubuntu/volatility", "cmd": "sudo apt install linux-image-4.15.0-112-generic linux-headers-4.15.0-112-generic"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134843, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/tools/linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134847, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650134848, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "cd volatility/tools/linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134856, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "make"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134894, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "make"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134894, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "make"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134898, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "sudo zip Ubuntu1604.zip volatility/tools/linux/module.dwarf /boot/System.map-4.15.0-112-generic"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134903, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134913, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "sudo apt install zip"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134920, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "sudo zip Ubuntu1604.zip volatility/tools/linux/module.dwarf /boot/System.map-4.15.0-112-generic"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134943, "pwd": "/home/ubuntu/volatility/tools", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650134945, "pwd": "/home/ubuntu/volatility", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650134946, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650134947, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134950, "pwd": "/home/ubuntu", "cmd": "sudo zip Ubuntu1604.zip volatility/tools/linux/module.dwarf /boot/System.map-4.15.0-112-generic"}
+{"User": "10.103.130.174", "timestamp_ms": 1650134980, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135042, "pwd": "/home/ubuntu", "cmd": "mv /home/ubuntu/Ubuntu1604.zip volatility/plugins/overlays/linux "}
+{"User": "10.103.130.174", "timestamp_ms": 1650135063, "pwd": "/home/ubuntu", "cmd": "mv /home/ubuntu/Ubuntu1604.zip /volatility/plugins/overlays/linux "}
+{"User": "10.103.130.174", "timestamp_ms": 1650135078, "pwd": "/home/ubuntu", "cmd": "mv /home/ubuntu/Ubuntu1604.zip /home/ubuntu/volatility/plugins/overlays/linux "}
+{"User": "10.103.130.174", "timestamp_ms": 1650135112, "pwd": "/home/ubuntu", "cmd": "bash history | grep mv"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135121, "pwd": "/home/ubuntu", "cmd": "history | grep mv"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135158, "pwd": "/home/ubuntu", "cmd": "mv Ubuntu16041.zip volatility/plugins/overlays/linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135162, "pwd": "/home/ubuntu", "cmd": "mv Ubuntu1604.zip volatility/plugins/overlays/linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135178, "pwd": "/home/ubuntu", "cmd": "mv Ubuntu1604.zip volatility/volatility/plugins/overlays/linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135180, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135181, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135183, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135183, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135184, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135186, "pwd": "/home/ubuntu/volatility/volatility/plugins", "cmd": "cd plugins/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135188, "pwd": "/home/ubuntu/volatility/volatility/plugins", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135192, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays", "cmd": "cd overlays/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135193, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135196, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "cd linux/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135197, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays/linux", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135203, "pwd": "/home/ubuntu/volatility/volatility/plugins/overlays", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650135204, "pwd": "/home/ubuntu/volatility/volatility/plugins", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650135206, "pwd": "/home/ubuntu/volatility/volatility/plugins", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650135208, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650135211, "pwd": "/home/ubuntu/volatility/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135212, "pwd": "/home/ubuntu/volatility", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650135213, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135233, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py --info | grep Linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135239, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py --info | grep Linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135239, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py --info | grep Linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135240, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py --info | grep Linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135284, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu1604x64 linux_bash "}
+{"User": "10.103.130.174", "timestamp_ms": 1650135316, "pwd": "/home/ubuntu/volatility", "cmd": "linux_find_file"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135341, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu1604x64 linux_find_file"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135383, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu1604x64 linux_yarascan"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135420, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu1604x64 linux_yarascan -Y history"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135646, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650135648, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135649, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135652, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135656, "pwd": "/home/ubuntu", "cmd": "rm volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135673, "pwd": "/home/ubuntu", "cmd": "rm -r  volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135674, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135675, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135676, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135684, "pwd": "/home/ubuntu", "cmd": "sudo rm -r volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135685, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135701, "pwd": "/home/ubuntu", "cmd": "sudo apt-get update"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135701, "pwd": "/home/ubuntu", "cmd": "sudo apt-get update"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135821, "pwd": "/home/ubuntu", "cmd": "sudo apt-get upgrade"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135825, "pwd": "/home/ubuntu", "cmd": "sudo apt-get install build-essential"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135832, "pwd": "/home/ubuntu", "cmd": "sudo apt-get install linux-headers-`uname -r`"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135839, "pwd": "/home/ubuntu", "cmd": "sudo apt-get install git python dwarfdump zip python-distorm3 python-crypto"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135848, "pwd": "/home/ubuntu", "cmd": "git clone https://github.com/504ensicsLabs/LiME"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135851, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135857, "pwd": "/home/ubuntu/LiME/src", "cmd": "cd LiME/src/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135863, "pwd": "/home/ubuntu/LiME/src", "cmd": "make"}
+{"User": "10.103.130.174", "timestamp_ms": 1650135978, "pwd": "/home/ubuntu/LiME/src", "cmd": ""}
+{"User": "10.103.130.174", "timestamp_ms": 1650135987, "pwd": "/home/ubuntu/LiME/src", "cmd": "sudo insmod lime-4.4.0-186-generic.ko"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136001, "pwd": "/home/ubuntu", "cmd": "cd ../.."}
+{"User": "10.103.130.174", "timestamp_ms": 1650136023, "pwd": "/home/ubuntu", "cmd": "git clone https://github.com/volatilityfoundation/volatility"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136024, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "cd volatility/tools/linux/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136029, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "make clean"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136037, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "make"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136046, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "volatility "}
+{"User": "10.103.130.174", "timestamp_ms": 1650136057, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "ls -al /boot/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136101, "pwd": "/home/ubuntu/volatility", "cmd": "cd ../.."}
+{"User": "10.103.130.174", "timestamp_ms": 1650136102, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136117, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py --info | grep Linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136176, "pwd": "/home/ubuntu/volatility", "cmd": "sudo zip volatility/plugins/overlays/linux/Ubuntu160403-040400-89.zip tools/linux/module.dwarf /boot/System.map-4.4.0-186-generic"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136188, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py --info | grep Linux"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136236, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py /home/ubuntu/memory.dmp --profile=LinuxUbuntu160403-040400-89x64 linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136236, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py /home/ubuntu/memory.dmp --profile=LinuxUbuntu160403-040400-89x64 linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136275, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu160403-040400-89x64 linux_bash"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136663, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp imageinfo"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136666, "pwd": "/home/ubuntu/volatility", "cmd": "uname -a"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136715, "pwd": "/home/ubuntu/volatility", "cmd": "sudo apt install linux-image-4.15.0-112-generic linux-headers-4.15.0-112-generic"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136720, "pwd": "/home/ubuntu/volatility", "cmd": "uname -a"}
+{"User": "10.103.130.174", "timestamp_ms": 1650136777, "pwd": "/home/ubuntu/volatility", "cmd": "sudo apt install linux-image-4.4.0-72-lowlatency linux-headers-4.4.0-72-lowlatency"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137242, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650137285, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep flag{"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137298, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep flag"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137324, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep Debian"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137368, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep debian"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137378, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep debian"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137385, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep Debian version"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137405, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"Debian version\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650137435, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"Debian version\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650137435, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"Debian version\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650137468, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"Linux version\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650137526, "pwd": "/home/ubuntu", "cmd": "grep -a \"Linux release\" memory.dmp "}
+{"User": "10.103.130.174", "timestamp_ms": 1650137642, "pwd": "/home/ubuntu", "cmd": "grep -a \"Linux release\" memory.dmp "}
+{"User": "10.103.130.174", "timestamp_ms": 1650137678, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"echo\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650137917, "pwd": "/home/ubuntu", "cmd": "echoclearl"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137924, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137925, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137937, "pwd": "/home/ubuntu", "cmd": "file memory.dmp"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137954, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility/"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137956, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650137993, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.174", "timestamp_ms": 1650138012, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | \"Linux version\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650138047, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"Linux version\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650307179, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"Linux version\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650307182, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.174", "timestamp_ms": 1650307190, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | \"Linux version\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650307223, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"Linux version\""}
+{"User": "10.103.130.174", "timestamp_ms": 1650307388, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | aW5zZWNsYWJ7IA=="}
+{"User": "10.103.130.174", "timestamp_ms": 1650307425, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep aW5zZWNsYWJ7IA=="}
+{"User": "10.103.130.174", "timestamp_ms": 1650307484, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep aW5zZWNsYWJ7IA"}
+{"User": "10.103.130.174", "timestamp_ms": 1650307549, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep aW5zZWNsYWJ7"}
+{"User": "10.103.130.174", "timestamp_ms": 1650307568, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep aW5zZWNsYWJ7"}

@@ -1,0 +1,8 @@
+{"User": "10.103.130.147", "timestamp_ms": 1650300093, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.147", "timestamp_ms": 1650300106, "pwd": "/home/ubuntu", "cmd": "cd /home/ubuntu/"}
+{"User": "10.103.130.147", "timestamp_ms": 1650300108, "pwd": "/home/ubuntu", "cmd": "ls -la"}
+{"User": "10.103.130.147", "timestamp_ms": 1650300591, "pwd": "/home/ubuntu", "cmd": "grep -A 2 \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.147", "timestamp_ms": 1650300647, "pwd": "/home/ubuntu", "cmd": "grep -A 2 \"s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.147", "timestamp_ms": 1650301564, "pwd": "/home/ubuntu", "cmd": "grep -A 2 \"s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.147", "timestamp_ms": 1650305127, "pwd": "/home/ubuntu", "cmd": "grep -A 2 \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.147", "timestamp_ms": 1650305893, "pwd": "/home/ubuntu", "cmd": "grep \"s.txt\" memory.dmp.strings"}

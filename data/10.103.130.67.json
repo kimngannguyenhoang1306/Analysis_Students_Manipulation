@@ -1,0 +1,46 @@
+{"User": "10.103.130.67", "timestamp_ms": 1650308022, "pwd": "/home/ubuntu", "cmd": "sudo reboot"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308026, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308037, "pwd": "/home/ubuntu/volatility", "cmd": "python2 vol.py --info"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308082, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "cd /usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux/"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308083, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "ls"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308131, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "unzip Ubuntu1604.zip "}
+{"User": "10.103.130.67", "timestamp_ms": 1650308139, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "sudo unzip Ubuntu1604.zip "}
+{"User": "10.103.130.67", "timestamp_ms": 1650308141, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "ls"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308145, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux/Ubuntu1604", "cmd": "cd Ubuntu1604/"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308146, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux/Ubuntu1604", "cmd": "ls"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308149, "pwd": "/home/ubuntu", "cmd": "cd "}
+{"User": "10.103.130.67", "timestamp_ms": 1650308152, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308163, "pwd": "/home/ubuntu/volatility", "cmd": "python2 vol.py --info | grep Profile"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308176, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "cd /usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux/"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308177, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays", "cmd": "cd .."}
+{"User": "10.103.130.67", "timestamp_ms": 1650308178, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays", "cmd": "ls"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308180, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/windows", "cmd": "cd windows/"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308180, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/windows", "cmd": "ls"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308193, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays", "cmd": "cd .."}
+{"User": "10.103.130.67", "timestamp_ms": 1650308194, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "cd linux/"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308195, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "ls"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308198, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux/Ubuntu1604", "cmd": "cd Ubuntu1604/"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308198, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux/Ubuntu1604", "cmd": "ls"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308202, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux/Ubuntu1604/boot", "cmd": "cd boot/"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308202, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux/Ubuntu1604/boot", "cmd": "ls"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308263, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "cd ../.."}
+{"User": "10.103.130.67", "timestamp_ms": 1650308264, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "ls"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308276, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "rm -f Ubuntu16044.zip "}
+{"User": "10.103.130.67", "timestamp_ms": 1650308281, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "sudo rm -f Ubuntu16044.zip "}
+{"User": "10.103.130.67", "timestamp_ms": 1650308365, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "uname -r"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308373, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "lsb_release -a"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308439, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "sudo wget https://raw.githubusercontent.com/volatilityfoundation/profiles/master/Linux/Ubuntu/x64/Ubuntu16041.zip"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308447, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "sudo wget https://raw.githubusercontent.com/volatilityfoundation/profiles/master/Linux/Ubuntu/x64/Ubuntu16042.zip"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308450, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "sudo wget https://raw.githubusercontent.com/volatilityfoundation/profiles/master/Linux/Ubuntu/x64/Ubuntu16044.zip"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308453, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "sudo wget https://raw.githubusercontent.com/volatilityfoundation/profiles/master/Linux/Ubuntu/x64/Ubuntu16045.zip"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308456, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "ls"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308467, "pwd": "/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux", "cmd": "python2 linux.py"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308470, "pwd": "/home/ubuntu", "cmd": "cd "}
+{"User": "10.103.130.67", "timestamp_ms": 1650308472, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308484, "pwd": "/home/ubuntu/volatility", "cmd": "python2 vol.py --info | grep Profile"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308593, "pwd": "/home/ubuntu/volatility", "cmd": "python2 vol.py -f ../memory.raw --profile=LinuxUbuntu1604x64 pslist"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308605, "pwd": "/home/ubuntu/volatility", "cmd": "python2 vol.py -f ../memory.raw --profile=LinuxUbuntu1604x64 pslist"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308608, "pwd": "/home/ubuntu/volatility", "cmd": "ls ../"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308619, "pwd": "/home/ubuntu/volatility", "cmd": "python2 vol.py -f ../memory.dmp --profile=LinuxUbuntu1604x64 pslist"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308667, "pwd": "/home/ubuntu/volatility", "cmd": "python2 vol.py --info | grep Linux"}
+{"User": "10.103.130.67", "timestamp_ms": 1650308750, "pwd": "/home/ubuntu/volatility", "cmd": "python2 vol.py --plugins=/usr/lib/python2.7/dist-packages/volatility/plugins/overlays/linux -f ../memory.dmp pslist"}

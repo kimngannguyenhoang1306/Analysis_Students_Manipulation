@@ -1,0 +1,136 @@
+{"User": "10.103.130.195", "timestamp_ms": 1650023161, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.195", "timestamp_ms": 1650023168, "pwd": "/home/ubuntu", "cmd": "history"}
+{"User": "10.103.130.195", "timestamp_ms": 1650023230, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650023271, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip "}
+{"User": "10.103.130.195", "timestamp_ms": 1650023271, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip "}
+{"User": "10.103.130.195", "timestamp_ms": 1650023274, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650023288, "pwd": "/home/ubuntu", "cmd": "ping 8.8.8.8"}
+{"User": "10.103.130.195", "timestamp_ms": 1650024558, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650024581, "pwd": "/home/ubuntu", "cmd": "cd volatili"}
+{"User": "10.103.130.195", "timestamp_ms": 1650024624, "pwd": "/home/ubuntu", "cmd": "rm -rf volatility_2.6_lin64_standalone "}
+{"User": "10.103.130.195", "timestamp_ms": 1650024626, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650024664, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025150, "pwd": "/home/ubuntu", "cmd": "sudo su"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025152, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025182, "pwd": "/home/ubuntu", "cmd": "rm -rf volatility_2.6_lin64_standalone "}
+{"User": "10.103.130.195", "timestamp_ms": 1650025223, "pwd": "/home/ubuntu", "cmd": "ls\\"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025224, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025232, "pwd": "/home/ubuntu", "cmd": "rm -rf volatility_2.6_lin64_standalone "}
+{"User": "10.103.130.195", "timestamp_ms": 1650025280, "pwd": "/home/ubuntu", "cmd": "rm -rf volatility_2.6_lin64_standalone "}
+{"User": "10.103.130.195", "timestamp_ms": 1650025282, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025362, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025367, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025404, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025417, "pwd": "/home/ubuntu", "cmd": "chmod 777 vol "}
+{"User": "10.103.130.195", "timestamp_ms": 1650025422, "pwd": "/home/ubuntu", "cmd": "./vol --help"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025428, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025648, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025651, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025654, "pwd": "/home/ubuntu", "cmd": "h\u00edtory"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025657, "pwd": "/home/ubuntu", "cmd": "history"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025732, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025742, "pwd": "/home/ubuntu", "cmd": "rm -r vol"}
+{"User": "10.103.130.195", "timestamp_ms": 1650025743, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650026043, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650026045, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650026068, "pwd": "/home/ubuntu", "cmd": "rm -rf volatility_2.6_lin64_standalone "}
+{"User": "10.103.130.195", "timestamp_ms": 1650026107, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650026112, "pwd": "/home/ubuntu", "cmd": "./vol --help"}
+{"User": "10.103.130.195", "timestamp_ms": 1650073959, "pwd": "/home/ubuntu", "cmd": "sudo su"}
+{"User": "10.103.130.195", "timestamp_ms": 1650073968, "pwd": "/home/ubuntu", "cmd": "pip3 --version"}
+{"User": "10.103.130.195", "timestamp_ms": 1650073978, "pwd": "/home/ubuntu", "cmd": "pip3 --version"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074106, "pwd": "/home/ubuntu", "cmd": "sudo apt install python3-pip"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074126, "pwd": "/home/ubuntu", "cmd": "python3 --version"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074212, "pwd": "/home/ubuntu", "cmd": "sudo apt-get update && sudo apt-get upgrade"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074250, "pwd": "/home/ubuntu", "cmd": "python -v"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074262, "pwd": "/home/ubuntu", "cmd": "python3 --version"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074399, "pwd": "/home/ubuntu", "cmd": "python3 --version"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074414, "pwd": "/home/ubuntu", "cmd": "pip3 --version"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074465, "pwd": "/home/ubuntu", "cmd": "sudo apt-get install python3.8"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074530, "pwd": "/home/ubuntu", "cmd": "sudo apt-get install python3"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074544, "pwd": "/home/ubuntu", "cmd": "sudo apt-get update"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074654, "pwd": "/home/ubuntu", "cmd": "sudo apt install software-properties-common"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074672, "pwd": "/home/ubuntu", "cmd": "sudo apt-get install python3.7"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074703, "pwd": "/home/ubuntu", "cmd": "sudo apt install software-properties-common"}
+{"User": "10.103.130.195", "timestamp_ms": 1650074721, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075101, "pwd": "/home/ubuntu", "cmd": "sudo apt-get update"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075151, "pwd": "/home/ubuntu", "cmd": "sudo apt-get install volatility"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075165, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075187, "pwd": "/home/ubuntu", "cmd": "locate volatility"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075202, "pwd": "/home/ubuntu", "cmd": "updatedb"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075213, "pwd": "/home/ubuntu", "cmd": "mupdatedb"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075230, "pwd": "/home/ubuntu", "cmd": "locate volatility"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075255, "pwd": "/home/ubuntu", "cmd": "volatility --v"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075261, "pwd": "/home/ubuntu", "cmd": "volatility -h"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075267, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075278, "pwd": "/home/ubuntu", "cmd": "volatility --version"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075514, "pwd": "/home/ubuntu", "cmd": "LS"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075517, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075696, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075697, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075704, "pwd": "/home/ubuntu", "cmd": "file memory.dmp"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075795, "pwd": "/home/ubuntu", "cmd": "du -sh"}
+{"User": "10.103.130.195", "timestamp_ms": 1650075876, "pwd": "/home/ubuntu", "cmd": "du -ah"}
+{"User": "10.103.130.195", "timestamp_ms": 1650076253, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.195", "timestamp_ms": 1650076429, "pwd": "/home/ubuntu", "cmd": "string memory.dmp"}
+{"User": "10.103.130.195", "timestamp_ms": 1650076438, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp"}
+{"User": "10.103.130.195", "timestamp_ms": 1650158211, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp"}
+{"User": "10.103.130.195", "timestamp_ms": 1650158345, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650158349, "pwd": "/home/ubuntu", "cmd": "history"}
+{"User": "10.103.130.195", "timestamp_ms": 1650158405, "pwd": "/home/ubuntu", "cmd": "volatility -h"}
+{"User": "10.103.130.195", "timestamp_ms": 1650159044, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650159077, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp windows.info"}
+{"User": "10.103.130.195", "timestamp_ms": 1650159252, "pwd": "/home/ubuntu", "cmd": "volatility imageinfo-f memory.dmp "}
+{"User": "10.103.130.195", "timestamp_ms": 1650160389, "pwd": "/home/ubuntu", "cmd": "volatility imageinfo -f memory.dmp "}
+{"User": "10.103.130.195", "timestamp_ms": 1650160454, "pwd": "/home/ubuntu", "cmd": "volatility kdbgscan -f memory.dmp"}
+{"User": "10.103.130.195", "timestamp_ms": 1650160456, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.195", "timestamp_ms": 1650160457, "pwd": "/home/ubuntu", "cmd": "ls "}
+{"User": "10.103.130.195", "timestamp_ms": 1650160476, "pwd": "/home/ubuntu", "cmd": "strings dump.mem | grep -i \"GNU/Linux\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650160485, "pwd": "/home/ubuntu", "cmd": "strings memory.mem | grep -i \"GNU/Linux\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650160530, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"GNU/Linux\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650160541, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650160725, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"Windows\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650160789, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"OS\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650160791, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"OS\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650160791, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"OS\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650160826, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.195", "timestamp_ms": 1650160868, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"Window\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650160964, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"Window version\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650161064, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"linux \""}
+{"User": "10.103.130.195", "timestamp_ms": 1650161142, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"welcome to\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650161154, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.195", "timestamp_ms": 1650161335, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"iseclab\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650161371, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"inseclab\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650161464, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"inseclab{\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650161470, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.195", "timestamp_ms": 1650169410, "pwd": "/home/ubuntu", "cmd": "volatility imageinfo -f memory.dmp --force"}
+{"User": "10.103.130.195", "timestamp_ms": 1650169412, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650169539, "pwd": "/home/ubuntu", "cmd": "base64 -e | echo \"iseclab{\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650169577, "pwd": "/home/ubuntu", "cmd": "echo \"inseclab{\" | base64 -e "}
+{"User": "10.103.130.195", "timestamp_ms": 1650169589, "pwd": "/home/ubuntu", "cmd": "echo \"inseclab{\" | base64 "}
+{"User": "10.103.130.195", "timestamp_ms": 1650169615, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep\"aW5zZWNsYWJ7Cg==\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650169635, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep\" aW5zZWNsYWJ7Cg== \""}
+{"User": "10.103.130.195", "timestamp_ms": 1650169677, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"aW5zZWNsYWJ7Cg== \""}
+{"User": "10.103.130.195", "timestamp_ms": 1650169735, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"aW5zZWNsYWJ7Cg\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650169778, "pwd": "/home/ubuntu", "cmd": "echo \"inseclab\" | base64 -e "}
+{"User": "10.103.130.195", "timestamp_ms": 1650169781, "pwd": "/home/ubuntu", "cmd": "echo \"inseclab\" | base64 "}
+{"User": "10.103.130.195", "timestamp_ms": 1650169821, "pwd": "/home/ubuntu", "cmd": "echo \"inseclab{\" | base64 "}
+{"User": "10.103.130.195", "timestamp_ms": 1650169867, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"aW5zZWNsYWJ7Cg==\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650169927, "pwd": "/home/ubuntu", "cmd": "echo \"aW5zZWNsYWJ7\" | base64 -d"}
+{"User": "10.103.130.195", "timestamp_ms": 1650169952, "pwd": "/home/ubuntu", "cmd": "echo \"inseclab{\" | base64"}
+{"User": "10.103.130.195", "timestamp_ms": 1650169967, "pwd": "/home/ubuntu", "cmd": "echo \"Cg==\" | base64 -d"}
+{"User": "10.103.130.195", "timestamp_ms": 1650170013, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"aW5zZWNsYWJ7\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650170045, "pwd": "/home/ubuntu", "cmd": "echo \"aW5zZWNsYWJ7dzNsYzBtM190MF9MMW51WF9tM20wcllfZjByM25zMWM1fQ==\" | base64 -d"}
+{"User": "10.103.130.195", "timestamp_ms": 1650170049, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.195", "timestamp_ms": 1650293936, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.195", "timestamp_ms": 1650293995, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.195", "timestamp_ms": 1650294286, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.195", "timestamp_ms": 1650294372, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"Linux\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650294419, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"GNU/Linux\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650294453, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"GNU/Linux\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650294465, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"UIT\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650294497, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"UIT\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650294516, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"inseclab\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650294765, "pwd": "/home/ubuntu", "cmd": "echo \"inseclab{\" | base64"}
+{"User": "10.103.130.195", "timestamp_ms": 1650294802, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"aW5zZWNsYWJ7\""}
+{"User": "10.103.130.195", "timestamp_ms": 1650294879, "pwd": "/home/ubuntu", "cmd": "echo \"aW5zZWNsYWJ7dzNsYzBtM190MF9MMW51WF9tM20wcllfZjByM25zMWM1fQ==\" | base64 -d"}

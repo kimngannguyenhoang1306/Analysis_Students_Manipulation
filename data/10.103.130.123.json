@@ -1,0 +1,74 @@
+{"User": "10.103.130.123", "timestamp_ms": 1650253547, "pwd": "/home/ubuntu", "cmd": "sudo reboot"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253549, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253585, "pwd": "/usr/share/volatility/tools/linux", "cmd": "cd /usr/share/volatility/tools/linux"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253611, "pwd": "/usr/share/volatility/tools/linux", "cmd": "sudo make"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253672, "pwd": "/usr/share/volatility/tools/linux", "cmd": "sudo make"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253674, "pwd": "/usr/share/volatility/tools/linux", "cmd": "uname -r"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253731, "pwd": "/usr/share/volatility/tools/linux", "cmd": "sudo zip ~/Ubuntu1604.zip ./module.dwarf /boot/System.map-4.15.0-112-generic"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253768, "pwd": "/usr/share/volatility/tools/linux", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 linux_history -f memory.dmp"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253779, "pwd": "/usr/share/volatility/tools/linux", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 --info"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253787, "pwd": "/usr/share/volatility/tools/linux", "cmd": "volatility --plugins=test_profiles  --info"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253801, "pwd": "/usr/share/volatility/tools/linux", "cmd": "volatility --plugins=test_profiles  --info"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253801, "pwd": "/usr/share/volatility/tools/linux", "cmd": "volatility --plugins=test_profiles  --info"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253801, "pwd": "/usr/share/volatility/tools/linux", "cmd": "volatility --plugins=test_profiles  --info"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253807, "pwd": "/usr/share/volatility/tools/linux", "cmd": "mv Ubuntu* tes*"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253812, "pwd": "/home/ubuntu", "cmd": "cd ~"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253813, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253820, "pwd": "/home/ubuntu", "cmd": "mv Ubuntu* tes*"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253829, "pwd": "/home/ubuntu", "cmd": "mv Ubuntu* test_profiles"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253839, "pwd": "/home/ubuntu", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 linux_history -f memory.dmp"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253851, "pwd": "/home/ubuntu", "cmd": "volatility --plugins=test_profiles --info"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253875, "pwd": "/home/ubuntu", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 linux_history -f memory.dmp"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253887, "pwd": "/home/ubuntu", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 linux_bash -f memory.dmp"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253912, "pwd": "/home/ubuntu", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 linux_bash -f memory.dmp"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253989, "pwd": "/home/ubuntu", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 linux_bash -f memory.dmp\\"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253993, "pwd": "/home/ubuntu", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 linux_bash -f memory.dmp"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253993, "pwd": "/home/ubuntu", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 linux_bash -f memory.dmp"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253994, "pwd": "/home/ubuntu", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 linux_bash -f memory.dmp"}
+{"User": "10.103.130.123", "timestamp_ms": 1650253994, "pwd": "/home/ubuntu", "cmd": "volatility --plugins=test_profiles --profile=LinuxUbuntu1604x64 linux_bash -f memory.dmp"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254017, "pwd": "/home/ubuntu", "cmd": "sudo apt-get remove volatility"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254050, "pwd": "/home/ubuntu", "cmd": "git clone https://github.com/volatilityfoundation/volatility"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254053, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254058, "pwd": "/home/ubuntu/volatility", "cmd": "cd vola*"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254059, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254079, "pwd": "/home/ubuntu/volatility", "cmd": "cd toos"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254083, "pwd": "/home/ubuntu/volatility", "cmd": "ls -la"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254086, "pwd": "/home/ubuntu/volatility/tools", "cmd": "cd tools"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254087, "pwd": "/home/ubuntu/volatility/tools", "cmd": "ls -la"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254089, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "cd linux"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254090, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "ls -la"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254110, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "uname -r"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254118, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "make"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254194, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "sudo zip ~/Ubuntu1604.zip ./module.dwzip $(lsb_release -i -s)_$(uname -r)_profile.zip ./volatility/tools/linux/module.dwarf /boot/System.map-$(uname -r)arf /boot/System.map-4.15.0-112-generic"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254194, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "sudo zip ~/Ubuntu1604.zip ./module.dwzip $(lsb_release -i -s)_$(uname -r)_profile.zip ./volatility/tools/linux/module.dwarf /boot/System.map-$(uname -r)arf /boot/System.map-4.15.0-112-generic"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254194, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "sudo zip ~/Ubuntu1604.zip ./module.dwzip $(lsb_release -i -s)_$(uname -r)_profile.zip ./volatility/tools/linux/module.dwarf /boot/System.map-$(uname -r)arf /boot/System.map-4.15.0-112-generic"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254194, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "sudo zip ~/Ubuntu1604.zip ./module.dwzip $(lsb_release -i -s)_$(uname -r)_profile.zip ./volatility/tools/linux/module.dwarf /boot/System.map-$(uname -r)arf /boot/System.map-4.15.0-112-generic"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254195, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "sudo zip ~/Ubuntu1604.zip ./module.dwzip $(lsb_release -i -s)_$(uname -r)_profile.zip ./volatility/tools/linux/module.dwarf /boot/System.map-$(uname -r)arf /boot/System.map-4.15.0-112-generic"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254195, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "sudo zip ~/Ubuntu1604.zip ./module.dwzip $(lsb_release -i -s)_$(uname -r)_profile.zip ./volatility/tools/linux/module.dwarf /boot/System.map-$(uname -r)arf /boot/System.map-4.15.0-112-generic"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254195, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip $(lsb_release -i -s)_$(uname -r)_profile.zip ./volatility/tools/linux/module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254195, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip $(lsb_release -i -s)_$(uname -r)_profile.zip ./volatility/tools/linux/module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254202, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "ls"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254209, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "rm *zip"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254210, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": ";s"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254211, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "ls"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254214, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip $(lsb_release -i -s)_$(uname -r)_profile.zip ./volatility/tools/linux/module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254243, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip $(lsb_release -i -s)_$(uname -r)_profile.zip .module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254250, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip $(lsb_release -i -s)_$(uname -r)_profile.zip ./module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254256, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip $(lsb_release -i -s)_$(uname -r)_profile.zip module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254257, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip $(lsb_release -i -s)_$(uname -r)_profile.zip module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254257, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip $(lsb_release -i -s)_$(uname -r)_profile.zip module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254257, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip $(lsb_release -i -s)_$(uname -r)_profile.zip module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254257, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "zip $(lsb_release -i -s)_$(uname -r)_profile.zip module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254267, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "sudo zip $(lsb_release -i -s)_$(uname -r)_profile.zip module.dwarf /boot/System.map-$(uname -r)"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254270, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "ls"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254359, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "cp Ubuntu* /home/ubuntu/volatility/volatility/plugins/overlays/linux"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254376, "pwd": "/home/ubuntu", "cmd": "cd ../../.."}
+{"User": "10.103.130.123", "timestamp_ms": 1650254428, "pwd": "/home/ubuntu", "cmd": "python ./volatility/vol.py -f memory.dmp --info | grep plugins"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254453, "pwd": "/home/ubuntu", "cmd": "python ./volatility/vol.py -f memory.dmp --info "}
+{"User": "10.103.130.123", "timestamp_ms": 1650254467, "pwd": "/home/ubuntu", "cmd": "python ./volatility/vol.py -f memory.dmp --info "}
+{"User": "10.103.130.123", "timestamp_ms": 1650254484, "pwd": "/home/ubuntu", "cmd": "python ./volatility/vol.py -f memory.dmp --plugins=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_bash"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254528, "pwd": "/home/ubuntu", "cmd": "python ./volatility/vol.py -f memory.dmp --profiles=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_bash"}
+{"User": "10.103.130.123", "timestamp_ms": 1650254556, "pwd": "/home/ubuntu", "cmd": "python ./volatility/vol.py -f memory.dmp --profile=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_bash"}
+{"User": "10.103.130.123", "timestamp_ms": 1650255165, "pwd": "/home/ubuntu", "cmd": "python ./volatility/vol.py -f memory.dmp --profile=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_bash"}
+{"User": "10.103.130.123", "timestamp_ms": 1650255172, "pwd": "/boot", "cmd": "cd /boot"}
+{"User": "10.103.130.123", "timestamp_ms": 1650255172, "pwd": "/boot", "cmd": "ls"}

@@ -1,0 +1,218 @@
+{"User": "10.103.130.166", "timestamp_ms": 1650102042, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102092, "pwd": "/home/ubuntu", "cmd": "volatility"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102098, "pwd": "/home/ubuntu", "cmd": "volatility -v"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102151, "pwd": "/home/ubuntu", "cmd": "sudo apt install volatility"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102187, "pwd": "/home/ubuntu", "cmd": "volatility -v"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102202, "pwd": "/home/ubuntu", "cmd": "volatility -imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102216, "pwd": "/home/ubuntu", "cmd": "volatility -h"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102236, "pwd": "/home/ubuntu", "cmd": "volatility -psscan"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102246, "pwd": "/home/ubuntu", "cmd": "volatility -p -psscan"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102257, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102286, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102290, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102545, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102574, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102574, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102593, "pwd": "/home/ubuntu", "cmd": "volatility inmageinfo -f memory.dmp"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102952, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650102987, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip"}
+{"User": "10.103.130.166", "timestamp_ms": 1650104245, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650104382, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650104984, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650104986, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105020, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105105, "pwd": "/home/ubuntu", "cmd": "sudo  volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105120, "pwd": "/home/ubuntu", "cmd": "cd E"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105127, "pwd": "/home/ubuntu", "cmd": "\"E:\\volatility_2.4.win.standalone\\volatility-2.4.standalone.exe\" imageinfo -f memdump3.raw"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105149, "pwd": "/home/ubuntu", "cmd": "sudo  volatility -f imageinfo memory.dmp "}
+{"User": "10.103.130.166", "timestamp_ms": 1650105326, "pwd": "/home/ubuntu", "cmd": "./vol.py "}
+{"User": "10.103.130.166", "timestamp_ms": 1650105331, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105359, "pwd": "/home/ubuntu", "cmd": "vol.py -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105387, "pwd": "/home/ubuntu", "cmd": "python vol.py -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105432, "pwd": "/home/ubuntu", "cmd": "ls -a"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105451, "pwd": "/home/ubuntu", "cmd": "cd .profile"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105461, "pwd": "/home/ubuntu", "cmd": "cd ./.profile"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105475, "pwd": "/home/ubuntu", "cmd": "cd \"profile\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650105483, "pwd": "/home/ubuntu", "cmd": "cd ./profile"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105497, "pwd": "/home/ubuntu", "cmd": "file .profile"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105531, "pwd": "/home/ubuntu", "cmd": "sudo nano .profile"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105539, "pwd": "/home/ubuntu", "cmd": "sudo nano .profile"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105544, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105545, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105547, "pwd": "/home/ubuntu", "cmd": "ls -a"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105590, "pwd": "/home/ubuntu", "cmd": "string .profile"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105651, "pwd": "/home/ubuntu", "cmd": "sudo nano .profile"}
+{"User": "10.103.130.166", "timestamp_ms": 1650105654, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650130722, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650130851, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650130899, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp > text.txt"}
+{"User": "10.103.130.166", "timestamp_ms": 1650130936, "pwd": "/home/ubuntu", "cmd": "sudo nano text.txt"}
+{"User": "10.103.130.166", "timestamp_ms": 1650130946, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650130983, "pwd": "/home/ubuntu", "cmd": "strings text.txt"}
+{"User": "10.103.130.166", "timestamp_ms": 1650130991, "pwd": "/home/ubuntu", "cmd": "strings text.txt"}
+{"User": "10.103.130.166", "timestamp_ms": 1650130991, "pwd": "/home/ubuntu", "cmd": "strings text.txt"}
+{"User": "10.103.130.166", "timestamp_ms": 1650130991, "pwd": "/home/ubuntu", "cmd": "strings text.txt"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131000, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131186, "pwd": "/home/ubuntu", "cmd": "sudo nano text.txt"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131232, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp > text.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131466, "pwd": "/home/ubuntu", "cmd": "sudo nano text.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131466, "pwd": "/home/ubuntu", "cmd": "sudo nano text.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131501, "pwd": "/home/ubuntu", "cmd": "grep filename  text.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131504, "pwd": "/home/ubuntu", "cmd": "grep filename  text.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131505, "pwd": "/home/ubuntu", "cmd": "grep filename  text.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131506, "pwd": "/home/ubuntu", "cmd": "grep filename  text.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131507, "pwd": "/home/ubuntu", "cmd": "grep filename  text.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131507, "pwd": "/home/ubuntu", "cmd": "grep filename  text.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131508, "pwd": "/home/ubuntu", "cmd": "grep filename  text.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131524, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650131527, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132209, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp > memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132407, "pwd": "/home/ubuntu", "cmd": "sudo nano memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132432, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132432, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132433, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132433, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132433, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132435, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132435, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132435, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132435, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132435, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132436, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132437, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132438, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132438, "pwd": "/home/ubuntu", "cmd": "strings  memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132489, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650132518, "pwd": "/home/ubuntu", "cmd": "sudo nano  memory.dmp.strings | grep bash history"}
+{"User": "10.103.130.166", "timestamp_ms": 1650162973, "pwd": "/home/ubuntu", "cmd": "sudo nano  memory.dmp.strings | grep \"bash history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163045, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep \"bash history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163062, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650163063, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650163065, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650163065, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650163066, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650163067, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650163082, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep \"bashhistory\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163169, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163615, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep -A \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163642, "pwd": "/home/ubuntu", "cmd": "memory.dmp.strings | grep -A \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163650, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep -A \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163650, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep -A \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163650, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep -A \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163650, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep -A \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163650, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep -A \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163650, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep -A \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163650, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep -A \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163650, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep -A \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163658, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163954, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163968, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings -A | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650163995, "pwd": "/home/ubuntu", "cmd": "sudo cat -a  memory.dmp.strings | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650164012, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep \"bash_history\" -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164399, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep A \"bash_history\" "}
+{"User": "10.103.130.166", "timestamp_ms": 1650164410, "pwd": "/home/ubuntu", "cmd": "grep --h"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164437, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep  \"bash_history\" | grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164451, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164452, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164453, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164453, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164454, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164455, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164457, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164458, "pwd": "1650164458", "cmd": "/home/ubuntu"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164460, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164504, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164505, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164505, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164505, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164505, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164506, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164506, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164506, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164506, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164506, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164507, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164507, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164507, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164508, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164510, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164510, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164510, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164510, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings  grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164512, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164528, "pwd": "/home/ubuntu", "cmd": "sudo memory.dmp.strings | grep  \"bash_history\" | grep -A"}
+{"User": "10.103.130.166", "timestamp_ms": 1650164579, "pwd": "/home/ubuntu", "cmd": "grep -A  memory.dmp.strings | grep  \"bash_history\" "}
+{"User": "10.103.130.166", "timestamp_ms": 1650164605, "pwd": "/home/ubuntu", "cmd": "grep -A \"bash_history\"  memory.dmp.strings "}
+{"User": "10.103.130.166", "timestamp_ms": 1650164628, "pwd": "/home/ubuntu", "cmd": "grep \"bash_history\"  memory.dmp.strings "}
+{"User": "10.103.130.166", "timestamp_ms": 1650164636, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \"bash_history\"  memory.dmp.strings "}
+{"User": "10.103.130.166", "timestamp_ms": 1650164650, "pwd": "/home/ubuntu", "cmd": "grep -A  memory.dmp.strings | grep -A 1  \"bash_history\" "}
+{"User": "10.103.130.166", "timestamp_ms": 1650164662, "pwd": "/home/ubuntu", "cmd": "grep -A  memory.dmp.strings | grep -A 1  and grep \"bash_history\" "}
+{"User": "10.103.130.166", "timestamp_ms": 1650164675, "pwd": "/home/ubuntu", "cmd": "grep -A  memory.dmp.strings | grep -A 1 | grep \"bash_history\" "}
+{"User": "10.103.130.166", "timestamp_ms": 1650164712, "pwd": "/home/ubuntu", "cmd": "grep -A 1 memory.dmp.strings | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650164879, "pwd": "/home/ubuntu", "cmd": "grep  memory.dmp.strings | grep \"s.txt\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650164892, "pwd": "/home/ubuntu", "cmd": "grep memory.dmp.strings | grep \"s.txt\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650164898, "pwd": "/home/ubuntu", "cmd": "memory.dmp.strings | grep \"s.txt\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650164908, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep \"s.txt\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650164951, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep \"Un33dt0r3@dth1s.txt\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650165887, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650166158, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650167049, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650167414, "pwd": "/home/ubuntu", "cmd": "grep -A  memory.dmp.strings | grep -A 1 | grep \"bash_history\" "}
+{"User": "10.103.130.166", "timestamp_ms": 1650167424, "pwd": "/home/ubuntu", "cmd": "memory.dmp.strings | grep -A 1 | grep \"bash_history\" "}
+{"User": "10.103.130.166", "timestamp_ms": 1650167431, "pwd": "/home/ubuntu", "cmd": "memory.dmp.strings | grep -A 1 | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650179096, "pwd": "/home/ubuntu", "cmd": "memory.dmp.strings | grep -A 1 | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650274132, "pwd": "/home/ubuntu", "cmd": "memory.dmp.strings | grep -A 1 | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650274137, "pwd": "/home/ubuntu", "cmd": "memory.dmp.strings | grep -A 1 | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650274146, "pwd": "/home/ubuntu", "cmd": "clls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650274148, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650274159, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep \"Un33dt0r3@dth1s.txt\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650288077, "pwd": "/home/ubuntu", "cmd": "sudo cat memory.dmp.strings | grep \"Un33dt0r3@dth1s.txt\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650288615, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650288617, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.166", "timestamp_ms": 1650288623, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650288691, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp.strings | grep \"bash history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650288704, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp.strings | grep \"bash_history\""}
+{"User": "10.103.130.166", "timestamp_ms": 1650288973, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296251, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296254, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296254, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296255, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296255, "pwd": "", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296255, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296256, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296256, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296256, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296256, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296256, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296257, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296257, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296257, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296257, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296257, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296262, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296313, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296316, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296414, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296416, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296416, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296417, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296417, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296417, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296417, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296418, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296418, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296418, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296418, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296419, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296419, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296419, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296419, "pwd": "/home/ubuntu", "cmd": "grep  \".s\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650296422, "pwd": "/home/ubuntu", "cmd": "clear"}
+{"User": "10.103.130.166", "timestamp_ms": 1650297717, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.166", "timestamp_ms": 1650299912, "pwd": "/home/ubuntu", "cmd": "grep  \"s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650299929, "pwd": "/home/ubuntu", "cmd": "grep -A 1 \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650299942, "pwd": "/home/ubuntu", "cmd": "grep  \".txt\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650300204, "pwd": "/home/ubuntu", "cmd": "grep  \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.166", "timestamp_ms": 1650300395, "pwd": "/home/ubuntu", "cmd": "strings base64 aW5zZWNsYWJ7dzNsYzBtM190MF9MMW51WF9tM20wcllfZjByM25zMWM1fQ=="}
+{"User": "10.103.130.166", "timestamp_ms": 1650300407, "pwd": "/home/ubuntu", "cmd": "base64 aW5zZWNsYWJ7dzNsYzBtM190MF9MMW51WF9tM20wcllfZjByM25zMWM1fQ=="}
+{"User": "10.103.130.166", "timestamp_ms": 1650300492, "pwd": "/home/ubuntu", "cmd": "echo 'aW5zZWNsYWJ7dzNsYzBtM190MF9MMW51WF9tM20wcllfZjByM25zMWM1fQ==' | base64 --decode"}

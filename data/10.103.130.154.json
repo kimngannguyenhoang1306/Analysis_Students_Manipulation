@@ -1,0 +1,15 @@
+{"User": "10.103.130.154", "timestamp_ms": 1650322276, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322309, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322341, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322353, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322428, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp kdbgscan"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322461, "pwd": "/home/ubuntu", "cmd": "sudo apt install volatility"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322765, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp kdbgscan"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322765, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp kdbgscan"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322877, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322878, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322885, "pwd": "/home/ubuntu", "cmd": "volatility --"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322894, "pwd": "/home/ubuntu", "cmd": "volatility -h"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322941, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp sessions"}
+{"User": "10.103.130.154", "timestamp_ms": 1650322941, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp sessions"}
+{"User": "10.103.130.154", "timestamp_ms": 1650323086, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp linux_bash"}

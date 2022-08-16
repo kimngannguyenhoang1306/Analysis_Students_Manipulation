@@ -1,0 +1,62 @@
+{"User": "10.103.130.114", "timestamp_ms": 1650017793, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.114", "timestamp_ms": 1650017805, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650017838, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip"}
+{"User": "10.103.130.114", "timestamp_ms": 1650017838, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip"}
+{"User": "10.103.130.114", "timestamp_ms": 1650017865, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650018207, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650019049, "pwd": "/home/ubuntu", "cmd": "votatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.114", "timestamp_ms": 1650019060, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.114", "timestamp_ms": 1650019102, "pwd": "/home/ubuntu", "cmd": "sudo apt install volatility"}
+{"User": "10.103.130.114", "timestamp_ms": 1650020517, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.114", "timestamp_ms": 1650020517, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.114", "timestamp_ms": 1650020614, "pwd": "/home/ubuntu", "cmd": "cat memory.dmp"}
+{"User": "10.103.130.114", "timestamp_ms": 1650020617, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650020729, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650021060, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp --profile=/etc/profile envars | grep COMPUTERNAME"}
+{"User": "10.103.130.114", "timestamp_ms": 1650021101, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp --profile=~/.profile envars | grep COMPUTERNAME"}
+{"User": "10.103.130.114", "timestamp_ms": 1650021126, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp --profile=/bin/bash envars | grep COMPUTERNAME"}
+{"User": "10.103.130.114", "timestamp_ms": 1650021237, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep 'Linux' | uniq"}
+{"User": "10.103.130.114", "timestamp_ms": 1650021255, "pwd": "/home/ubuntu", "cmd": "uname -a"}
+{"User": "10.103.130.114", "timestamp_ms": 1650021415, "pwd": "/home/ubuntu", "cmd": "strings dump.mem | grep -i \"GNU/Linux\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650021455, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i \"GNU/Linux\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650021541, "pwd": "/home/ubuntu", "cmd": "uname -a"}
+{"User": "10.103.130.114", "timestamp_ms": 1650022239, "pwd": "/home/ubuntu", "cmd": "cat /proc/cmdline"}
+{"User": "10.103.130.114", "timestamp_ms": 1650022684, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650022790, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650022946, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp --profile=./~bashrc envars"}
+{"User": "10.103.130.114", "timestamp_ms": 1650023737, "pwd": "/home/ubuntu", "cmd": "history"}
+{"User": "10.103.130.114", "timestamp_ms": 1650023760, "pwd": "/home/ubuntu", "cmd": "history -a"}
+{"User": "10.103.130.114", "timestamp_ms": 1650024000, "pwd": "/home/ubuntu", "cmd": "sudo su"}
+{"User": "10.103.130.114", "timestamp_ms": 1650025359, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650025470, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp mac_get_profile"}
+{"User": "10.103.130.114", "timestamp_ms": 1650025618, "pwd": "/home/ubuntu", "cmd": "strings dump.raw | grep -i 'Linux version' | uniq"}
+{"User": "10.103.130.114", "timestamp_ms": 1650025659, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i 'Linux version' | uniq"}
+{"User": "10.103.130.114", "timestamp_ms": 1650025677, "pwd": "/home/ubuntu", "cmd": "uname -a"}
+{"User": "10.103.130.114", "timestamp_ms": 1650025909, "pwd": "/home/ubuntu", "cmd": "ls "}
+{"User": "10.103.130.114", "timestamp_ms": 1650026702, "pwd": "/home/ubuntu", "cmd": "ls "}
+{"User": "10.103.130.114", "timestamp_ms": 1650027707, "pwd": "/home/ubuntu", "cmd": "ls "}
+{"User": "10.103.130.114", "timestamp_ms": 1650164358, "pwd": "/home/ubuntu", "cmd": "ls "}
+{"User": "10.103.130.114", "timestamp_ms": 1650164364, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650164409, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"inseclab\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650164456, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"bash/history\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650164492, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"bash_history\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650164597, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -A \"bash_history\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650164617, "pwd": "/home/ubuntu", "cmd": "cd /home/uit_inseclab"}
+{"User": "10.103.130.114", "timestamp_ms": 1650164630, "pwd": "/home/ubuntu", "cmd": "cd t-inseclab/.bash_history"}
+{"User": "10.103.130.114", "timestamp_ms": 1650164712, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -A 0 \"bash_history\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650164755, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -A 1 \"bash_history\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650164826, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"s.txt\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650164867, "pwd": "/home/ubuntu", "cmd": "cat Un33dt0r3@dth1s.txt"}
+{"User": "10.103.130.114", "timestamp_ms": 1650164877, "pwd": "/home/ubuntu", "cmd": "cd Un33dt0r3@dth1s.txt"}
+{"User": "10.103.130.114", "timestamp_ms": 1650166619, "pwd": "/home/ubuntu", "cmd": "cat s.txt"}
+{"User": "10.103.130.114", "timestamp_ms": 1650166655, "pwd": "/home/ubuntu", "cmd": "cat t-inseclab/.bash_history"}
+{"User": "10.103.130.114", "timestamp_ms": 1650166668, "pwd": "/home/ubuntu", "cmd": "cd t-inseclab"}
+{"User": "10.103.130.114", "timestamp_ms": 1650166689, "pwd": "/home/ubuntu", "cmd": "find ./ -name \"t-inseclab\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650167341, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650296129, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.114", "timestamp_ms": 1650296141, "pwd": "/home/ubuntu", "cmd": "history"}
+{"User": "10.103.130.114", "timestamp_ms": 1650296190, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"bash_history\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650296233, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -A 1 \"bash_history\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650296604, "pwd": "/home/ubuntu", "cmd": "history"}
+{"User": "10.103.130.114", "timestamp_ms": 1650296636, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep \"s.txt\""}
+{"User": "10.103.130.114", "timestamp_ms": 1650296644, "pwd": "/home/ubuntu", "cmd": "cat Un33dt0r3@dth1s.txt"}

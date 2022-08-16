@@ -1,0 +1,81 @@
+{"User": "10.103.130.140", "timestamp_ms": 1650100319, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.140", "timestamp_ms": 1650100330, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650100453, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650100481, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650100511, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650100565, "pwd": "/home/ubuntu", "cmd": "wget"}
+{"User": "10.103.130.140", "timestamp_ms": 1650100653, "pwd": "/home/ubuntu", "cmd": "wget http://downloads.volatilityfoundation.org/releases/2.6/volatility_2.6_lin64_standalone.zip"}
+{"User": "10.103.130.140", "timestamp_ms": 1650100658, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650100754, "pwd": "/home/ubuntu", "cmd": "wget http://downloads.volatilityfoundation.org/releases/2.6/volatility_2.6_lin64_standalone.zip"}
+{"User": "10.103.130.140", "timestamp_ms": 1650100846, "pwd": "/home/ubuntu", "cmd": "wget http://downloads.volatilityfoundation.org/releases/2.6/volatility_2.6_lin64_standalone.zip"}
+{"User": "10.103.130.140", "timestamp_ms": 1650100880, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650100925, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650100968, "pwd": "/home/ubuntu", "cmd": "sudo apt install volatility"}
+{"User": "10.103.130.140", "timestamp_ms": 1650100981, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp "}
+{"User": "10.103.130.140", "timestamp_ms": 1650101138, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.140", "timestamp_ms": 1650101349, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp kdbgscan"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102480, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102493, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102500, "pwd": "/home/ubuntu", "cmd": "unzim volatility-2.6.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650102505, "pwd": "/home/ubuntu", "cmd": "unzip volatility-2.6.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650102508, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102511, "pwd": "/home/ubuntu", "cmd": "cd vo"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102515, "pwd": "/home/ubuntu/volatility-master", "cmd": "cd volatility-master/"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102516, "pwd": "/home/ubuntu/volatility-master", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102708, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.140", "timestamp_ms": 1650102709, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102716, "pwd": "/home/ubuntu", "cmd": "unzip volatility_2.6_lin64_standalone.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650102727, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102746, "pwd": "/home/ubuntu", "cmd": "unzip volatility_2.6_lin64_standalone.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650102756, "pwd": "/home/ubuntu", "cmd": "unzip volatility_2.6_lin64_standalone"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102841, "pwd": "/home/ubuntu", "cmd": "sudo apt-get install unzip"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102849, "pwd": "/home/ubuntu", "cmd": "unzip volatility_2.6_lin64_standalone.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650102853, "pwd": "/home/ubuntu", "cmd": "unzip volatility_2.6_lin64_standalone.zip"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102886, "pwd": "/home/ubuntu", "cmd": "file volatility_2.6_lin64_standalone.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650102901, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102908, "pwd": "/home/ubuntu", "cmd": "file volatility-2.6.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650102967, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650102980, "pwd": "/home/ubuntu", "cmd": "chmod +x volatility_2.6_lin64_standalone"}
+{"User": "10.103.130.140", "timestamp_ms": 1650103004, "pwd": "/home/ubuntu", "cmd": "./volatility_2.6_lin64_standalone -f memory.dmp imageinfo"}
+{"User": "10.103.130.140", "timestamp_ms": 1650103023, "pwd": "/home/ubuntu", "cmd": "file volatility_2.6_lin64_standalone"}
+{"User": "10.103.130.140", "timestamp_ms": 1650103042, "pwd": "/home/ubuntu", "cmd": "ls -l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650103051, "pwd": "/home/ubuntu", "cmd": "rm volatility_2.6_lin64_standalone"}
+{"User": "10.103.130.140", "timestamp_ms": 1650103053, "pwd": "/home/ubuntu", "cmd": "ls-l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650103055, "pwd": "/home/ubuntu", "cmd": "ls -l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650103061, "pwd": "/home/ubuntu", "cmd": "ls -l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650103069, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650103072, "pwd": "/home/ubuntu", "cmd": "ls -l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650121712, "pwd": "/home/ubuntu", "cmd": "sudo su"}
+{"User": "10.103.130.140", "timestamp_ms": 1650122015, "pwd": "/home/ubuntu", "cmd": "wget https://downloads.volatilityfoundation.org/releases/2.6/volatility_2.6_lin64_standalone.zip"}
+{"User": "10.103.130.140", "timestamp_ms": 1650122047, "pwd": "/home/ubuntu", "cmd": "wget https://downloads.volatilityfoundation.org/releases/2.6/volatility_2.6_lin64_standalone.zip --no-check-certificate"}
+{"User": "10.103.130.140", "timestamp_ms": 1650122056, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650122072, "pwd": "/home/ubuntu", "cmd": "rm volatility_2.6_lin64_standalone.zip"}
+{"User": "10.103.130.140", "timestamp_ms": 1650122098, "pwd": "/home/ubuntu", "cmd": "rm volatility_2.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650122111, "pwd": "/home/ubuntu", "cmd": "rm volatility-2.6.zip "}
+{"User": "10.103.130.140", "timestamp_ms": 1650122245, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650122260, "pwd": "/home/ubuntu", "cmd": "unzip volatility_2.6_lin64_standalone.zip.1"}
+{"User": "10.103.130.140", "timestamp_ms": 1650122262, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650122267, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "cd volatility_2.6_lin64_standalone/"}
+{"User": "10.103.130.140", "timestamp_ms": 1650122268, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650122325, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "./volatility_2.6_lin64_standalone "}
+{"User": "10.103.130.140", "timestamp_ms": 1650122360, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "./volatility_2.6_lin64_standalone /home/ubuntu/memory.dmp imageinfo"}
+{"User": "10.103.130.140", "timestamp_ms": 1650123776, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "./volatility_2.6_lin64_standalone -f /home/ubuntu/memory.dmp imageinfo"}
+{"User": "10.103.130.140", "timestamp_ms": 1650123785, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "ls -l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650123792, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.140", "timestamp_ms": 1650123793, "pwd": "/home/ubuntu", "cmd": "ls -l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650123945, "pwd": "/home/ubuntu", "cmd": "ls -l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650124101, "pwd": "/home/ubuntu", "cmd": "ls -l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650124863, "pwd": "/home/ubuntu", "cmd": "ls -l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650202647, "pwd": "/home/ubuntu", "cmd": "ls -l"}
+{"User": "10.103.130.140", "timestamp_ms": 1650202691, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "cd volatility_2.6_lin64_standalone/"}
+{"User": "10.103.130.140", "timestamp_ms": 1650202701, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650202718, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "cat README.txt "}
+{"User": "10.103.130.140", "timestamp_ms": 1650202761, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "python vol.py --info"}
+{"User": "10.103.130.140", "timestamp_ms": 1650202774, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "ls"}
+{"User": "10.103.130.140", "timestamp_ms": 1650202834, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "./volatility_2.6_lin64_standalone -f /home/ubuntu/memory.dmp imageinfo"}
+{"User": "10.103.130.140", "timestamp_ms": 1650202922, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "./volatility_2.6_lin64_standalone -f /home/ubuntu/memory.zip imageinfo"}
+{"User": "10.103.130.140", "timestamp_ms": 1650202965, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "./volatility_2.6_lin64_standalone -f /home/ubuntu/memory.zip kdbgscan"}
+{"User": "10.103.130.140", "timestamp_ms": 1650203068, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "./volatility_2.6_lin64_standalone -f /home/ubuntu/memory.dmp kdbgscan"}
+{"User": "10.103.130.140", "timestamp_ms": 1650203121, "pwd": "/home/ubuntu/volatility_2.6_lin64_standalone", "cmd": "./volatility_2.6_lin64_standalone imageinfo -f /home/ubuntu/memory.dmp"}
+{"User": "10.103.130.140", "timestamp_ms": 1650289701, "pwd": "/home/ubuntu", "cmd": "sudo su "}
+{"User": "10.103.130.140", "timestamp_ms": 1650289730, "pwd": "/home/ubuntu", "cmd": "sudo apt -y install stegcracker"}

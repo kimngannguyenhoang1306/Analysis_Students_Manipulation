@@ -1,0 +1,184 @@
+{"User": "10.103.130.151", "timestamp_ms": 1650026533, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026535, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026566, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip "}
+{"User": "10.103.130.151", "timestamp_ms": 1650026572, "pwd": "/home/ubuntu", "cmd": "file memory.dmp "}
+{"User": "10.103.130.151", "timestamp_ms": 1650026598, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep insec"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026622, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026636, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep welcome"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026743, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep welcome"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026743, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep welcome"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -i .bash_history"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "t-inseclab/"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "t-inseclab/Downloads/memory.dmpssful"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "t-inseclab/.bash_history"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "t-inseclab/.bash_history"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "t-inseclab/Downloads/memory.dmp"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/ibus/bus"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/ibus/bus"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/gtk-3.0"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Pictures"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/gtk-3.0"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026779, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/gtk-3.0"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "t-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Downloads"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Pictures"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Videos"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026780, "pwd": "/home/ubuntu", "cmd": "NAME=uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Documents"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Music"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/nautilus/desktop-metadata"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Desktop"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/fonts"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/fonts"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.fonts"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.fonts"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.cache/fontconfig"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/fontconfig/conf.d"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/fontconfig/fonts.conf"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026781, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.fontconfig"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons/gnome"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons/gnome"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons/Humanity"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons/Humanity"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons/Adwaita"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons/hicolor"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons/hicolor"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons/Adwaita"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026782, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Documents"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Music"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "t-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "file:///home/uit-inseclab/Downloads"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Downloads"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Downloads"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Templates"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Public"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Documents"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Music"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Pictures"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Videos"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/Desktop"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons/Humanity-Dark"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons/Humanity-Dark"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons/ubuntu-mono-dark"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons/ubuntu-mono-dark"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026783, "pwd": "/home/ubuntu", "cmd": "_DIR=/var/lib/lightdm-data/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026784, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026784, "pwd": "/home/ubuntu", "cmd": "HOME=/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026784, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons/ubuntu-mono-dark"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026784, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026784, "pwd": "/home/ubuntu", "cmd": "____home_uit_inseclab_downloads_avml"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026784, "pwd": "/home/ubuntu", "cmd": "t-inseclab/.local/share/zeitgeist/fts.index/record."}
+{"User": "10.103.130.151", "timestamp_ms": 1650026784, "pwd": "/home/ubuntu", "cmd": "'/home/uit-inseclab/.cache/evolution/addressbook/system-address-book'"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026784, "pwd": "/home/ubuntu", "cmd": "inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026784, "pwd": "/home/ubuntu", "cmd": "NAME=uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "'/home/uit-inseclab/.cache/evolution/addressbook/system-address-book'"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "USER=uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "XAUTHORITY=/home/uit-inseclab/.Xauthority"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "PWD=/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "HOME=/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "PATH=/home/uit-inseclab/bin:/home/uit-inseclab/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "LOGNAME=uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.cache/fontconfig"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/fonts"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/fonts"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.fonts"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.fonts"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/evolution/addressbook/system"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/fontconfig/fonts.conf"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.fontconfig"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "NAME=uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/fontconfig/conf.d"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/evolution/addressbook/system"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.cache"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "USER=uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "XAUTHORITY=/home/uit-inseclab/.Xauthority"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "PWD=/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "HOME=/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "PATH=/home/uit-inseclab/bin:/home/uit-inseclab/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "LOGNAME=uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.cache/mozilla/firefox/jecfxjff.default-release/cache2/entries/A9D9B45519B04FA2DEEEC872605CB6B8B97ECEB3"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.cache/mozilla/firefox/jecfxjff.default-release/cache2/entries/792A2DA10AB472D648D73F44C16F29C7674F48D9"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.cache/mozilla/firefox/jecfxjff.default-release/cache2/entries/97B1E72B5935008E4FC99DBEFBBA59090D9EA88A"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.cache/mozilla/firefox/jecfxjff.default-release/cache2/entries/D360D47F60AEDA1A6EC9AC1FD8B56E6249AA04FE"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "USER=uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "XAUTHORITY=/home/uit-inseclab/.Xauthority"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "PWD=/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "HOME=/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "PATH=/home/uit-inseclab/bin:/home/uit-inseclab/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "LOGNAME=uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "t-inseclab/.local/share/gvfs-metadata/home"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/gvfs-metadata/home"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "t-inseclab/.local/share/gvfs-metadata/home"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "t-inseclab/.local/share/gvfs-metadata/home"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/gvfs-metadata/home"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026785, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/gvfs-metadata/home"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/gvfs-metadata/home"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/recently-used.xbel"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/gvfs-metadata/home"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/evolution/addressbook/system/contacts.db"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/icons/ubuntu-mono-dark"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons/ubuntu-mono-dark"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "file:///home/uit-inseclab/.local/share/Trash/files/"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "file:///home/uit-inseclab/.local/share/Trash/files/"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026786, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/evolution"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/evolution/addressbook/system/contacts.db"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/evolution/addressbook/system/contacts.db-journal"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/evolution/addressbook/system/contacts.db-wal"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/evolution/addressbook/system/photos"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.cache/evolution/addressbook/system-address-book"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "=/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "LOGNAME=uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026787, "pwd": "/home/ubuntu", "cmd": "-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026788, "pwd": "/home/ubuntu", "cmd": "udo] password for uit-inseclab: guments were not provided:"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026788, "pwd": "/home/ubuntu", "cmd": "]0;uit-inseclab@ubuntu: ~/Downloads"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026789, "pwd": "/home/ubuntu", "cmd": "[01;32muit-inseclab@ubuntu"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026789, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/gvfs-metadata/home"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026789, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026789, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026790, "pwd": "/home/ubuntu", "cmd": "uit-inseclab:$1$ya52b41M$zxNGOqFjww.ZHlKXjNr.t.:19092:0:99999:7:::"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026790, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026790, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.local/share/gvfs-metadata/home"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026790, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.icons/Adwaita"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026790, "pwd": "/home/ubuntu", "cmd": "uit-inseclab@ubuntu: ~/Downloads"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026791, "pwd": "/home/ubuntu", "cmd": "uit-inseclab@ubuntu: ~/Downloads"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026791, "pwd": "/home/ubuntu", "cmd": "/home/uit-inseclab/.config/ibus/bus/b9e82d25ee4c4769bd65d2099c4b946c-unix-0"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026791, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026800, "pwd": "/home/ubuntu", "cmd": "uit-inseclab"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026802, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026857, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp | grep -n -C 10 \".bash_history\""}
+{"User": "10.103.130.151", "timestamp_ms": 1650026956, "pwd": "/home/ubuntu", "cmd": "yum install kernel-headers kernel-devel gcc elfutils-libelf-devel make git libdwarf-tools python2-devel.x86_64-y"}
+{"User": "10.103.130.151", "timestamp_ms": 1650026992, "pwd": "/home/ubuntu", "cmd": "sudo apt install yum"}
+{"User": "10.103.130.151", "timestamp_ms": 1650027004, "pwd": "/home/ubuntu", "cmd": "yum install kernel-headers kernel-devel gcc elfutils-libelf-devel make git libdwarf-tools python2-devel.x86_64-y"}
+{"User": "10.103.130.151", "timestamp_ms": 1650027011, "pwd": "/home/ubuntu", "cmd": "sudo yum install kernel-headers kernel-devel gcc elfutils-libelf-devel make git libdwarf-tools python2-devel.x86_64-y"}

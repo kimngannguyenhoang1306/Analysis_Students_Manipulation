@@ -1,0 +1,18 @@
+{"User": "10.103.130.165", "timestamp_ms": 1650272775, "pwd": "/home/ubuntu", "cmd": "sudo su"}
+{"User": "10.103.130.165", "timestamp_ms": 1650272779, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650272799, "pwd": "/home/ubuntu", "cmd": "mv vol/ volatility"}
+{"User": "10.103.130.165", "timestamp_ms": 1650272801, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650272814, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650272820, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650272848, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650272952, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650273001, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650273003, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650273020, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650273027, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650273044, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650273056, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650273098, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650273122, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650273254, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.165", "timestamp_ms": 1650273298, "pwd": "/home/ubuntu", "cmd": "ls"}

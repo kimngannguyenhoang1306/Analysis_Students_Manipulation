@@ -1,0 +1,14 @@
+{"User": "10.103.130.122", "timestamp_ms": 1650034835, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202226, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202353, "pwd": "/home/ubuntu", "cmd": "ls -a"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202422, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.zip imageinfo"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202436, "pwd": "/home/ubuntu", "cmd": "apt install volatility"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202545, "pwd": "/home/ubuntu", "cmd": "sudo su"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202637, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.zip imageinfo"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202652, "pwd": "/home/ubuntu", "cmd": "ls -a"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202717, "pwd": "/home/ubuntu", "cmd": "sudo apt-get install unzip"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202762, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202776, "pwd": "/home/ubuntu", "cmd": "grep -a \"BOOT_IMAGE\" memory.dmp"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202963, "pwd": "/home/ubuntu", "cmd": "grep -a \"BOOT_IMAGE\" memory.dmp"}
+{"User": "10.103.130.122", "timestamp_ms": 1650202968, "pwd": "/home/ubuntu", "cmd": "cls"}
+{"User": "10.103.130.122", "timestamp_ms": 1650203316, "pwd": "/home/ubuntu", "cmd": "volatility -f memory.dmp imageinfo"}

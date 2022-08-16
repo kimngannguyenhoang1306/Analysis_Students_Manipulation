@@ -1,0 +1,80 @@
+{"User": "10.103.130.136", "timestamp_ms": 1650284555, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.136", "timestamp_ms": 1650284902, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650284923, "pwd": "/home/ubuntu", "cmd": "targz memory.zip "}
+{"User": "10.103.130.136", "timestamp_ms": 1650284941, "pwd": "/home/ubuntu", "cmd": "tar gz memory.zip "}
+{"User": "10.103.130.136", "timestamp_ms": 1650284951, "pwd": "/home/ubuntu", "cmd": "tar --help"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285028, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip "}
+{"User": "10.103.130.136", "timestamp_ms": 1650285043, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285379, "pwd": "/home/ubuntu", "cmd": "string memory.dmp>memory.dmp.string"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285415, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp>memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285513, "pwd": "/home/ubuntu", "cmd": "grep \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285592, "pwd": "/home/ubuntu", "cmd": "grep \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285677, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285700, "pwd": "/home/ubuntu", "cmd": "grep \"bash_history\" memory.dmp.string"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285718, "pwd": "/home/ubuntu", "cmd": "grep \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285788, "pwd": "/home/ubuntu", "cmd": "grep \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285794, "pwd": "/home/ubuntu", "cmd": "grep \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285849, "pwd": "/home/ubuntu", "cmd": "grep \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285854, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285871, "pwd": "/home/ubuntu", "cmd": "string memory.dmp>memory.dmp.string"}
+{"User": "10.103.130.136", "timestamp_ms": 1650285898, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp>memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650286099, "pwd": "/home/ubuntu", "cmd": "grep \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650286254, "pwd": "/home/ubuntu", "cmd": "grep -A1  \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650286431, "pwd": "/home/ubuntu", "cmd": "grep \u201cs.txt\u201d memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650286452, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650286786, "pwd": "/home/ubuntu", "cmd": "grep -A 1  \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650286840, "pwd": "/home/ubuntu", "cmd": "grep \u201cs.txt\u201d memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650287214, "pwd": "/home/ubuntu", "cmd": "grep \"s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650287564, "pwd": "/home/ubuntu", "cmd": "grep \"s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650287589, "pwd": "/home/ubuntu", "cmd": "grep \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650287704, "pwd": "/home/ubuntu", "cmd": "grep \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650287723, "pwd": "/home/ubuntu", "cmd": "eco Un33dt0r3@dth1s.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650287733, "pwd": "/home/ubuntu", "cmd": "echo Un33dt0r3@dth1s.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650287741, "pwd": "/home/ubuntu", "cmd": "grep \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650287902, "pwd": "/home/ubuntu", "cmd": "base64 --decode flag.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650287953, "pwd": "/home/ubuntu", "cmd": "grep -A 1  \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650287961, "pwd": "/home/ubuntu", "cmd": "grep \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650288060, "pwd": "/home/ubuntu", "cmd": "base64 --decode Un33dt0r3@dth1s.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650288600, "pwd": "/home/ubuntu", "cmd": "touch Un33dt0r3@dth1s.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650288625, "pwd": "/home/ubuntu", "cmd": "grep \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650288719, "pwd": "/home/ubuntu", "cmd": "grep -A  \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650288723, "pwd": "/home/ubuntu", "cmd": "grep -A 1  \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650288738, "pwd": "/home/ubuntu", "cmd": "grep -A1  \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289236, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289262, "pwd": "/home/ubuntu", "cmd": "rm memory.dmp"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289265, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289276, "pwd": "/home/ubuntu", "cmd": "rm memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289281, "pwd": "/home/ubuntu", "cmd": "rm memory.dmp.string"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289284, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289292, "pwd": "/home/ubuntu", "cmd": "rm bash_history_enable"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289292, "pwd": "/home/ubuntu", "cmd": "t-inseclab/.bash_history"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289292, "pwd": "/home/ubuntu", "cmd": "t-inseclab/.bash_history"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289292, "pwd": "/home/ubuntu", "cmd": "t-inseclab/.bash_history"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289293, "pwd": "/home/ubuntu", "cmd": ".bash_history"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289293, "pwd": "/home/ubuntu", "cmd": ".bash_history"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289293, "pwd": "/home/ubuntu", "cmd": ".bash_history"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289313, "pwd": "/home/ubuntu", "cmd": "~/.bash_history"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289315, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289326, "pwd": "/home/ubuntu", "cmd": "re  Un33dt0r3@dth1s.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289334, "pwd": "/home/ubuntu", "cmd": "rm  Un33dt0r3@dth1s.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289337, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289376, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip "}
+{"User": "10.103.130.136", "timestamp_ms": 1650289377, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip "}
+{"User": "10.103.130.136", "timestamp_ms": 1650289380, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289432, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp>memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289462, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip "}
+{"User": "10.103.130.136", "timestamp_ms": 1650289491, "pwd": "/home/ubuntu", "cmd": "grep -A 1  \"bash_history\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289703, "pwd": "/home/ubuntu", "cmd": "grep \"s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289845, "pwd": "/home/ubuntu", "cmd": "grep \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650289997, "pwd": "/home/ubuntu", "cmd": "base64 --decode Un33dt0r3@dth1s.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650290008, "pwd": "/home/ubuntu", "cmd": "base64 --decode flag.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650290021, "pwd": "/home/ubuntu", "cmd": "grep \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650290390, "pwd": "/home/ubuntu", "cmd": "touch edicho.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650290435, "pwd": "/home/ubuntu", "cmd": "nano edicho.txt "}
+{"User": "10.103.130.136", "timestamp_ms": 1650290438, "pwd": "/home/ubuntu", "cmd": "nano edicho.txt "}
+{"User": "10.103.130.136", "timestamp_ms": 1650290454, "pwd": "/home/ubuntu", "cmd": "grep \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650290473, "pwd": "/home/ubuntu", "cmd": "grep \"Un33dt0r3@dth1s.txt\" memory.dmp.strings"}
+{"User": "10.103.130.136", "timestamp_ms": 1650290494, "pwd": "/home/ubuntu", "cmd": "nano edicho.txt "}
+{"User": "10.103.130.136", "timestamp_ms": 1650290505, "pwd": "/home/ubuntu", "cmd": "base64 --decode edicho.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650293058, "pwd": "/home/ubuntu", "cmd": "base64 --decode edicho.txt"}
+{"User": "10.103.130.136", "timestamp_ms": 1650293118, "pwd": "/home/ubuntu", "cmd": "strings memory.dmp>memory.dmp.strings"}

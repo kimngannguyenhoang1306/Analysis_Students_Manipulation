@@ -1,0 +1,22 @@
+{"User": "10.103.130.207", "timestamp_ms": 1650013536, "pwd": "/home/ubuntu", "cmd": "exit"}
+{"User": "10.103.130.207", "timestamp_ms": 1650013892, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.207", "timestamp_ms": 1650013944, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip"}
+{"User": "10.103.130.207", "timestamp_ms": 1650013944, "pwd": "/home/ubuntu", "cmd": "unzip memory.zip"}
+{"User": "10.103.130.207", "timestamp_ms": 1650013946, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.207", "timestamp_ms": 1650013956, "pwd": "/home/ubuntu", "cmd": "volatility"}
+{"User": "10.103.130.207", "timestamp_ms": 1650014012, "pwd": "/home/ubuntu", "cmd": "sudo apt install volatility"}
+{"User": "10.103.130.207", "timestamp_ms": 1650014127, "pwd": "/home/ubuntu", "cmd": "volatility memory.dmp imageinfo"}
+{"User": "10.103.130.207", "timestamp_ms": 1650015501, "pwd": "/home/ubuntu", "cmd": "volatility -f  memory.dmp imageinfo"}
+{"User": "10.103.130.207", "timestamp_ms": 1650015502, "pwd": "/home/ubuntu", "cmd": "volatility -f  memory.dmp imageinfo"}
+{"User": "10.103.130.207", "timestamp_ms": 1650017049, "pwd": "/home/ubuntu", "cmd": "volatility -f  memory.dmp imageinfo"}
+{"User": "10.103.130.207", "timestamp_ms": 1650017660, "pwd": "/home/ubuntu", "cmd": "unzip memory.dmp"}
+{"User": "10.103.130.207", "timestamp_ms": 1650017782, "pwd": "/home/ubuntu", "cmd": "python vol.py -f memory.dmp imageinfo"}
+{"User": "10.103.130.207", "timestamp_ms": 1650018318, "pwd": "/home/ubuntu", "cmd": "volatility -f  memory.dmp imageinfo"}
+{"User": "10.103.130.207", "timestamp_ms": 1650018318, "pwd": "/home/ubuntu", "cmd": "volatility -f  memory.dmp imageinfo"}
+{"User": "10.103.130.207", "timestamp_ms": 1650018353, "pwd": "/home/ubuntu", "cmd": "volatility -f  memory.dmp linux_bash"}
+{"User": "10.103.130.207", "timestamp_ms": 1650018360, "pwd": "/home/ubuntu", "cmd": "volatility -f  memory.dmp linux_bash"}
+{"User": "10.103.130.207", "timestamp_ms": 1650018422, "pwd": "/home/ubuntu", "cmd": "volatility -f  memory.dmp --profile=WinXPSP2x86  linux_bash | less"}
+{"User": "10.103.130.207", "timestamp_ms": 1650018459, "pwd": "/home/ubuntu", "cmd": "sudo apt update"}
+{"User": "10.103.130.207", "timestamp_ms": 1650018479, "pwd": "/home/ubuntu", "cmd": "sudo apt-get update"}
+{"User": "10.103.130.207", "timestamp_ms": 1650018530, "pwd": "/home/ubuntu", "cmd": "volatility update"}
+{"User": "10.103.130.207", "timestamp_ms": 1650018542, "pwd": "/home/ubuntu", "cmd": "volatility -h"}

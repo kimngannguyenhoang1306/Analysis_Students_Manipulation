@@ -1,0 +1,11 @@
+{"User": "10.103.130.142", "timestamp_ms": 1650310589, "pwd": "/home/ubuntu", "cmd": "sudo reboot"}
+{"User": "10.103.130.142", "timestamp_ms": 1650310700, "pwd": "/home/ubuntu", "cmd": "sudo apt install linux-headers-4.15.0-112-generic"}
+{"User": "10.103.130.142", "timestamp_ms": 1650310727, "pwd": "/home/ubuntu", "cmd": "./create_profile.sh"}
+{"User": "10.103.130.142", "timestamp_ms": 1650310769, "pwd": "/home/ubuntu", "cmd": "./create_profile.sh"}
+{"User": "10.103.130.142", "timestamp_ms": 1650310770, "pwd": "/home/ubuntu", "cmd": "./create_profile.sh"}
+{"User": "10.103.130.142", "timestamp_ms": 1650310810, "pwd": "/home/ubuntu", "cmd": "./volatility/vol.py --info | grep Ubuntu "}
+{"User": "10.103.130.142", "timestamp_ms": 1650310817, "pwd": "/home/ubuntu", "cmd": "python./volatility/vol.py --info | grep Ubuntu "}
+{"User": "10.103.130.142", "timestamp_ms": 1650310829, "pwd": "/home/ubuntu", "cmd": "python ./volatility/vol.py --info | grep Ubuntu "}
+{"User": "10.103.130.142", "timestamp_ms": 1650310898, "pwd": "/home/ubuntu", "cmd": "python ./volatility/vol.py -f memory.dmp --profile=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_bash"}
+{"User": "10.103.130.142", "timestamp_ms": 1650310964, "pwd": "/home/ubuntu", "cmd": "echo \"aW5zZWNsYWJ7dzNsYzBtM190MF9MMW51WF9tM20wcllfZjByM25zMWM1fQ==\" | base 64 -d"}
+{"User": "10.103.130.142", "timestamp_ms": 1650310974, "pwd": "/home/ubuntu", "cmd": "echo \"aW5zZWNsYWJ7dzNsYzBtM190MF9MMW51WF9tM20wcllfZjByM25zMWM1fQ==\" | base64 -d"}

@@ -1,0 +1,32 @@
+{"User": "10.103.130.118", "timestamp_ms": 1650283155, "pwd": "/home/ubuntu", "cmd": "sudo reboot"}
+{"User": "10.103.130.118", "timestamp_ms": 1650283164, "pwd": "/home/ubuntu", "cmd": "uname -a"}
+{"User": "10.103.130.118", "timestamp_ms": 1650283300, "pwd": "/home/ubuntu", "cmd": "uname -a"}
+{"User": "10.103.130.118", "timestamp_ms": 1650283503, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility"}
+{"User": "10.103.130.118", "timestamp_ms": 1650283528, "pwd": "/home/ubuntu/volatility/tools", "cmd": "cd tools/"}
+{"User": "10.103.130.118", "timestamp_ms": 1650283530, "pwd": "/home/ubuntu/volatility/tools", "cmd": "ls"}
+{"User": "10.103.130.118", "timestamp_ms": 1650283534, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "cd linux/"}
+{"User": "10.103.130.118", "timestamp_ms": 1650283535, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "ls"}
+{"User": "10.103.130.118", "timestamp_ms": 1650283564, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "make"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284108, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "make"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284110, "pwd": "/home/ubuntu/volatility/tools/linux", "cmd": "ls"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284112, "pwd": "/home/ubuntu/volatility/tools", "cmd": "cd .."}
+{"User": "10.103.130.118", "timestamp_ms": 1650284113, "pwd": "/home/ubuntu/volatility/tools", "cmd": "ls"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284114, "pwd": "/home/ubuntu/volatility", "cmd": "cd .."}
+{"User": "10.103.130.118", "timestamp_ms": 1650284115, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284124, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284175, "pwd": "/home/ubuntu/volatility", "cmd": "python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_psscan"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284359, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_recover_filesystem -D filesystem"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284359, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_recover_filesystem -D filesystem"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284360, "pwd": "/home/ubuntu/volatility", "cmd": "ls"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284365, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.118", "timestamp_ms": 1650284366, "pwd": "/home/ubuntu", "cmd": "ls"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284375, "pwd": "/home/ubuntu/file_data", "cmd": "cd file_data/"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284376, "pwd": "/home/ubuntu/file_data", "cmd": "ls"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284380, "pwd": "/home/ubuntu/file_data/sys", "cmd": "cd sys"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284381, "pwd": "/home/ubuntu/file_data/sys", "cmd": "ls"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284392, "pwd": "/home/ubuntu/file_data", "cmd": "cd .."}
+{"User": "10.103.130.118", "timestamp_ms": 1650284393, "pwd": "/home/ubuntu", "cmd": "cd .."}
+{"User": "10.103.130.118", "timestamp_ms": 1650284403, "pwd": "/home/ubuntu", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_bash"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284408, "pwd": "/home/ubuntu/volatility", "cmd": "cd volatility"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284430, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_bash"}
+{"User": "10.103.130.118", "timestamp_ms": 1650284511, "pwd": "/home/ubuntu/volatility", "cmd": "sudo python vol.py -f /home/ubuntu/memory.dmp --profile=LinuxUbuntu_4_15_0-112-generic_profilex64 linux_bash"}
